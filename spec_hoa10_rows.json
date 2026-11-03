@@ -1,0 +1,195 @@
+[
+  [
+    "TT",
+    "Chương",
+    "Nội dung/ đợn vị kiến thức",
+    "Cấp độ tư duy",
+    "Yêu cầu cần đạt – Chỉ báo",
+    "Số lượng lệnh hỏi ở các mức độ"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Trắc nghiệm",
+    "Tự luận"
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Nhiều lựa chọn",
+    "Đúng – Sai",
+    "Trả lời ngắn",
+    ""
+  ],
+  [
+    "(1)",
+    "(2)",
+    "(3)",
+    "(4)",
+    "(5)",
+    "(6)",
+    "(7)",
+    "(8)",
+    "(9)"
+  ],
+  [
+    "1",
+    "Cấu tạo nguyên tử",
+    "1. Các thành phần của nguyên tử ",
+    "Biết",
+    "– Trình bày được thành phần của nguyên tử (hạt nhân và lớp vỏ nguyên tử; hạt nhân tạo nên bởi các hạt proton (p), neutron (n); Lớp vỏ tạo nên bởi các electron (e); điện tích, khối lượng mỗi loại hạt). (HH1.2)",
+    "C1 ",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    "Vận dụng",
+    "–Xác định số proton, electron, neutron trong nguyên tử. (HH1.4)",
+    "C11",
+    "",
+    "C6",
+    ""
+  ],
+  [
+    "",
+    "",
+    "2. Nguyên tố hoá học, đồng vị",
+    "Biết",
+    "– Trình bày được khái niệm về nguyên tố hoá học, số hiệu nguyên tử, và kí hiệu nguyên tử. (HH1.2)– Phát biểu được khái niệm đồng vị, nguyên tử khối. (HH1.1)",
+    "C2",
+    "",
+    "C1",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    "Hiểu",
+    "– Xác định được số đồng vị dựa vào phổ khối lượng nguyên tử",
+    "",
+    "",
+    "",
+    "C1a"
+  ],
+  [
+    "",
+    "",
+    "",
+    "Vận dụng",
+    "– Tính được nguyên tử khối trung bình (theo amu) dựa vào khối lượng nguyên tử và phần trăm số nguyên tử của các đồng vị theo phổ khối lượng được cung cấp. (HH1.4)",
+    "",
+    "",
+    "C4",
+    "C1b"
+  ],
+  [
+    "",
+    "",
+    "3. Cấu trúc lớp vỏ electron nguyên tử",
+    "Biết",
+    "– Nêu được khái niệm orbital nguyên tử (AO), mô tả được hình dạng của AO (s, p), số lượng electron trong 1 AO. (HH1.3)–Trình bày được khái niệm lớp, phân lớp electron, số lượng phân lớp trong một lớp; số AO trong một phân lớp, trong một lớp. (HH1.1)–Nắm được đặc điểm của lớp electron ngoài cùng.(HH1.1)–Nắm được quy tắc phân bố electron vào các lớp.(HH1.1)",
+    "C3",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    "Thông hiểu",
+    "– Tính được số electron tối đa trong 1 phân lớp và trong 1 lớp.– Viết được cấu hình electron nguyên tử theo lớp, phân lớp electron và theo ô orbital khi biết số hiệu nguyên tử Z của 20 nguyên tố đầu tiên trong bảng tuần hoàn. (HH1.5)",
+    "C8",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    "Vận dụng",
+    "– Dựa vào đặc điểm cấu hình electron lớp ngoài cùng của nguyên tử dự đoán được tính chất hoá học cơ bản (kim loại hay phi kim) của nguyên tố tương ứng. (HH1.6)",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "2",
+    "Bảng tuần hoàn các nguyên tố hoá học",
+    "1. Cấu tạo của bảng tuần hoàn các nguyên tố hoá học",
+    "Biết",
+    "– Nêu được nguyên tắc sắp xếp các nguyên tố trong bảng tuần hoàn. (HH1.1)– Nắm được cấu tạo của bảng tuần hoàn gồm: ô, chu kì, nhóm; khái niệm ô, chu kì, nhóm (nhóm A và B).  (HH1.2-1.1)– Nắm được cách xác định số thứ tự ô nguyên tố, xác định chu kì, nhóm. (HH1.2-1.1)– Nêu được khái niệm electron hóa trị. (HH1.2-1.1)",
+    "C4C5",
+    "C1aC1bC1c C2aC2b",
+    "C2C3",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    "Hiểu",
+    "– Xác định được số electron hóa trị trong nguyên tử các nguyên tố. – Nắm được mối liên hệ giữa cấu hình electron và vị trí nguyên tố trong bảng tuần hoàn.(HH1.3)– Phân loại được nguyên tố (dựa theo cấu hình electron: nguyên tố s, p, d, f; dựa theo tính chất hoá học: kim loại, phi kim, khí hiếm). (HH1.3)",
+    "C9",
+    "C1dC2c",
+    "",
+    "2a"
+  ],
+  [
+    "",
+    "",
+    "",
+    "Vận dụng",
+    "– Xác định vị trí của nguyên tố (ô, chu kì, nhóm) khi biết cấu hình electron nguyên tử và ngược lại viết cấu hình electron, dự đoán tính chất dựa vào vị trí trong bảng tuần hoàn.(HH1.6)– Giải thích được mối liên hệ giữa cấu hình electron và vị trí của nguyên tố trong bảng tuần hoàn, dẫn ra thí dụ minh họa.(HH1.6)",
+    "",
+    "",
+    "C5",
+    "2b"
+  ],
+  [
+    "",
+    "",
+    "2. Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm",
+    "Biết",
+    "– Nhận xét được xu hướng biến đổi độ âm điện, bán kính nguyên tử và tính kim loại, phi kim của nguyên tử các nguyên tố trong một chu kì, trong một nhóm (nhóm A). (HH1.6)",
+    "C6C7",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    "Hiểu",
+    "– Nhận xét và giải thích được xu hướng biến đổi độ âm điện, bán kính nguyên tử  và tính kim loại, phi kim của nguyên tử các nguyên tố trong một chu kì, trong một nhóm (nhóm A). (HH1.6)",
+    "   C10",
+    "C2d",
+    "",
+    "3b"
+  ],
+  [
+    "",
+    "",
+    "",
+    "VD",
+    "– Viết được phương trình hoá học minh hoạ. (HH1.2)",
+    "C12",
+    "",
+    "",
+    "3a"
+  ]
+]

@@ -1,0 +1,374 @@
+﻿
+
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">ĐỀ CƯƠNG GK1 MÔN HÓA (26-27)
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">ĐỀ 1:
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 18. Mỗi câu hỏi thí sinh chỉ chọn một phương án.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 1.NB. Phản ứng nào sau đây là phản ứng thuận nghịch?
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. Mg + 2HCl ⟶ MgCl2 + H2.B. 2SO2 + O2 ⇌ 2SO3.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">C. C2H5OH + 3O2 2CO2 + 3H2O.D. 2KClO3  2KCl + 3O2
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 2.NB. Yếu tố nào sau đây không làm dịch chuyển cân bằng của hệ phản ứng?
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. Nhiệt độ.B. Áp suất.C. Nồng độ.D. Chất xúc tác.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 3.NB. Khi một hệ ở trạng thái cân bằng thì trạng thái đó là cân bằng
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. tĩnh.B. động.C. bền.D. không bền.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 4.NB. Phương trình điện li nào dưới đây viết không đúng?
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A.   B. CH3COOH ⇌ CH3COO- + H+  
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">C. KOH ⇌ K+ + OH- D. 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 5.NB. Chất nào dưới đây không phân li ra ion khi hòa tan trong nước?
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. CaCl2.B. HNO3.C. NaOH.  D. C12H22O11.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 6.NB. Trong phương pháp chuẩn độ acid-base, thời điểm hai chất tác dụng vừa đủ với nhau hoàn toàn gọi là điểm
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. nóng.B. tương đương.C. tọa độ.D. cân bằng.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 7.NB. Cho phương trình: CH3COOH + H2O CH3COO- + H3O+
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Trong phản ứng thuận, theo thuyết Bronsted – Lowry chất nào là acid?
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. CH3COOH.B. H2O.C. CH3COO-.D. H3O+.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 8.TH. Cho cân bằng (trong bình kín) sau:    CO (g) + H2O (g) ⇌ CO2(g) + H2 (g)  &lt; 0
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Trong các yếu tố: (1) tăng nhiệt độ; (2) thêm một lượng hơi nước; (3) thêm một lượng H2; (4) tăng  áp suất chung của hệ; (5) dùng chất xúc tác.  Dãy gồm các yếu tố đều làm thay đổi cân bằng của hệ là
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E"> A. (1), (4), (5).B. (1), (2), (3).C. (2), (3), (4).D. (1), (2), (4).
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 9. VD. Cho các cân bằng sau:
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">(1) H2(g) + I2(g)  2HI(g)(4) 2HI(g)  H2(g) + I2(g)
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">(2) H2(g) + I2(g)  HI(g) (5) H2(g) + I2(s)  2HI(g)
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">(3) HI(g)  H2(g) + I2(g)
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Ở nhiệt độ xác định, nếu KC của cân bằng (1) bằng 64 thì KC bằng 0,125 là của cân bằng
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. (5).B. (2).C. (3).D. (4).
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 10.VD. Có 4 dung dịch: Sodium chloride (NaCl), ancol ethylic (C2H5OH), acetic acid (CH3COOH), potassium sulfate ( K2SO4 ) đều có nồng độ 0,1 mol/L. Khả năng dẫn điện của các dung dịch đó tăng dần theo thứ tự nào trong các thứ tự sau:
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. NaCl &lt; C2H5OH &lt; CH3COOH &lt; K2SO4.B. C2H5OH &lt; CH3COOH &lt; NaCl &lt; K2SO4.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">C. C2H5OH &lt; CH3COOH &lt; K2SO4 &lt; NaCl.D. CH3COOH &lt; NaCl &lt; C2H5OH &lt; K2SO4.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 11.NB. Trong khí quyển, nguyên tố nitrogen tồn tại chủ yếu dưới dạng chất nào sau đây?
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. NO2.B. N2.C. NO.D. NH3.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 12.NB. Cho vài giọt quỳ tím vào dung dịch NH3 thì dung dịch chuyển thành 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. màu hồng.B. màu vàng.C. màu đỏ.D. màu xanh.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 13. NB. Cho Fe tác dụng với dung dịch HNO3 đặc, nóng thu được khí X có màu nâu đỏ. Khí X là?
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. N2.B. N2O.C. NO.D. NO2.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 14.NB. SO2 là một khí độc được thải ra từ các vùng công nghiệp, là một trong những nguyên nhân chính gây ra hiện tượng nào dưới đây?
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. Mưa acid.B. Hiệu ứng nhà kính.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">C. Hiệu ứng đomino.D. Sương mù.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 15. NB. Tính chất nào sau đây không phải tính chất của dung dịch sulfuric acid đặc?
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. Tính háo nước.B. Tính oxi hóa.C. Tính acid.D. Tính khử.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 16. NB.Hiện tượng phú dưỡng là một biểu hiện của môi trường ao, hồ bị ô nhiễm do dư thừa các chất dinh dưỡng. Sự dư thừa dinh dưỡng chủ yếu do hàm lượng các ion nào sau đây vượt quá mức cho phép?
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. Na+, K+. B. Ca2+, Mg2+.C. NO3-, PO43-.D. Cl-, SO42-.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 17.VD. Có 4 ống nghiệm, mỗi ống đựng một chất khí khác nhau, chúng được úp ngược trong các chậu nước X, Y, Z, T. Kết quả thí nghiệm được mô tả bằng hình vẽ sau:
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Các khí X, Y, Z, T lần lượt là:
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. NH3, HCl, O2, SO2.B. O2, SO2, NH3, HCl.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">C. SO2, O2, NH3, HCl.D. O2, HCl, NH3, SO2.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 18.VD. Có các thí nghiệm sau: 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">(1) Khí SO2 làm mất màu nước bromine. 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">(2) Cho dung dịch BaCl2 tác dụng với dung dịch H2SO4 thu được kết tủa màu trắng. 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">(3) Nhôm (aluminium) tan trong dung dịch H2SO4 đặc, nguội. 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">(4) Sulfur là chất rắn, màu trắng, không tan trong nước.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">(5) Sulfur và sulfur dioxide vừa có tính oxi hóa, vừa có tính khử.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">(6) Khi phản ứng với hydrogen, sulfur thể hiện tính oxi hóa
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">(7) Nước thải sinh hoạt là một trong các nguồn phát thải khí SO2.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">(8) Sulfur dioxide được sử dụng để tẩy trắng vải sợi, bột giấy, sản xuất sulfuric acid và diệt nấm mốc.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Số thí nghiệm xảy ra phản ứng hoá học là 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">A. 3.B. 6.C. 5.D. 4. 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.(Đ – S)
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 1: Độ acid và độ kiềm của dung dịch có thể được đánh giá bằng nồng độ H+ (Nồng độ H+ càng cao thì pH càng nhỏ) hoặc quy về một giá trị gọi là pH (pH là chỉ số đánh giá độ acid hay base của một dung dịch)
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">a.TH. Để so sánh mức độ acid giữa các dung dịch có thể dựa vào nồng độ: dung dịch acid nào có nồng độ mol lớn hơn sẽ có tính acid mạnh hơn.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">b.TH. Cho các dung dịch có cùng nồng độ: K2SO3 (1), NaClO4 (2), HNO3 (3) Ca(OH)2 (4). Chất có giá trị pH cao nhất là (1).
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">c.TH. Cho ba dung dịch có cùng giá trị pH: NH3 (1) , Ca(OH)2 (2) , KOH (3). Nồng độ mol các dung dịch được sắp xếp theo thứ tự giảm dần theo thứ tự là : (2),(3),(1).
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">d. NB.  Trong các dung dịch có cùng nồng độ, dung dịch có nồng độ ion H+ nhỏ hơn và pH cao sẽ có tính acid yếu hơn.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 2. Cho sơ đồ chuyển hoá sau:  
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">NH3  X  Y  Z  T  P.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Biết X, Y, Z, T, P là các hợp chất chứa nitrogen. 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">a. TH. NH3 thể hiện tính khử.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">b.VD.  X và T lần lượt N2O và NaNO3.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">c. VD. X và T lần lượt là NO2 và HNO3. 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">d.VD. Z và P lần lượt là HNO3 và NaNO2.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 3. Sulfuric acid là hóa chất rất quan trọng trong nhiều lĩnh vực, có hoạt tính hóa học rất mạnh. 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E"> a.   NB.  Sulfuric acid đặc có tính háo nước, gây bỏng nặng khi tiếp xúc với da tay.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">b. TH. Khi pha loãng sulfuric acid đặc cần cho từ từ nước vào acid, không làm ngược lại gây nguy hiểm.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">c. TH. Khi bị bỏng sulfuric acid đặc, điều đầu tiên cần làm là xả nhanh chỗ bỏng với nước lạnh.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">d. TH.Sulfuric acid loãng có tính oxi hóa mạnh, khi tác dụng với kim loại không sinh ra khí hydrogen.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 4. Xét cân bằng trong bình kín có dung tích không đổi: X(g)  2Y(g). Ban đầu cho 1 mol khí X vào bình, khi đạt đến trạng thái cân bằng thì thấy: Tại thời điểm ở 350C trong bình có 0,730 mol X; Tại thời điểm ở 450C trong bình có 0,623 mol X.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">a. VD. Phản ứng thuận là phản ứng thu nhiệt.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">b. VD. Khi tăng áp suất, cân bằng chuyển dịch theo chiều nghịch.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">c. VD. Thêm tiếp Y vào hỗn hợp cân bằng thì làm cho cân bằng chuyển dịch theo chiều nghịch.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">d. NB. Thêm xúc tác thích hợp vào hỗn hợp cân bằng thì cân bằng vẫn không chuyển dịch.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00F24015">PHẦN III: Câu hỏi trắc nghiệm yêu cầu trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 1.TH. Cho các chất: Al2(SO4)3, CH3COOH, CH4, AgCl, Fe(OH)3, C6H12O6, NH3, SO3, SiO2, KOH, H2O, CaSO3, H2S, H3PO4.Trong các chất trên, có a chất điện li trong đó gồm b chất điện li yếu và các chất điện limạnh. Tính giá trị a + b. 
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 2. TH.  Ammonia  được điều chế bằng phản ứng
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Ở t oC, nồng độ các chất ở trạng thái cân bằng là .
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Tính hằng số cân bằng  của phản ứng trên tại t oC. (làm tròn đến số thập phân hàng chục)
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 3. VD. Một mẫu nước thải của nhà máy sản xuất có pH = 3. Để thải ra ngoài môi trường thì cần phải tăng pH lên từ 5,8 đến 8,6 (theo đúng qui định), nhà máy phải dùng vôi sống thải vào nước thải. Để nâng pH của 1,5 m3 nước thải từ 3 lên 7 cần dùng m gam vôi sống . (Bỏ qua sự thủy phân của các muối nếu có).Tính giá trị m.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 4. TH. Cho phản ứng:  Al+ HNO3 → Al(NO3)3 + N2O + H2O. Khi cân bằng hệ số của HNO3 là bao nhiêu?
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 5. TH. Cho 50 ml dung dịch KOH 1M vào 20 ml dung dịch (NH4)2SO4 0,5M, đun nóng nhẹ thu được V lít khí ở đkc. Tính giá trị của V.
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Câu 6. VD. Sulfuric acid có thể được điều chế từ quặng pyrite theo sơ đồ:
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="008A04E1" w:rsidP="00526A6E">Tính thể tích dung dịch H2SO4 95% (D = 1,82 g/mL) thu được từ 1 tấn quặng pyrite (chứa 80% FeS2). Biết hiệu suất của cả quá trình là 90%, các tạp chất trong quặng không chứa sulfur. (làm tròn đến số thập phân hàng trăm)
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">
+w:rsidR="008A04E1" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">ĐỀ 2:
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 18. Mỗi câu hỏi thí sinh chỉ chọn một phương án.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Hằng số cân bằng KC của một phản ứng thuận nghịch phụ thuộc vào yếu tố nào sau đây?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. Nồng độ.B. Nhiệt độ.C. Áp suất.D. Chất xúc tác.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Yếu tố nào sau đây luôn luôn không làm dịch chuyển cân bằng của hệ phản ứng?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. Nhiệt độ.B. Áp suất.C. Nồng độ.D. Chất xúc tác.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Dung dịch chất nào sau đây không làm đổi màu quỳ tím?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. HCl. B. Na2SO4. C. Ba(OH)2. D. HClO4.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Chất nào sau đây là chất điện li mạnh?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. H2S.B. CH3COOH.C. H3PO4.D. NaCl.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Cho cân bằng hoá học: . Yếu tố không ảnh hưởng đến cân bằng hóa học này là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. nhiệt độ.B. nồng độ.C. chất xúc tác.D. áp suất.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Phương trình điện li nào dưới đây viết sai?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. B. 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">C. D. 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Điều nào sau đây đúng về tính chất hóa học của N2?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. N2 chỉ có tính khử.B. N2 chỉ có tính oxi hoá.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">C. N2 vừa có tính khử, vừa có tính oxi hoá.D. N2 có tính acid.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Trong những cơn mưa dông kèm sấm sét, nitrogen kết hợp trực tiếp với oxygen tạo thành sản phẩm là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. NO.B. N2O.C. NH3.D. NO2.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Khí nào sau đây dễ tan trong nước do tạo được liên kết hydrogen với nước?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. Nitrogen.B. Hydrogen.C. Ammonia.D. Oxygen.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Theo Areniut những chất nào sau đây là hydroxide lưỡng tính
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. Al(OH)3B. Fe(OH)2.C. Cr(OH)2.D. Mg(OH)2.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Thạch cao sống là một dạng tồn tại phổ biến của sulfur trong tự nhiên, được sử dụng làm nguyên liệu để sản xuất xi măng, phần viết bảng,. Công thức của thạch cao sống là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. BaSO4.B. CaSO4.2H2O.C. MgSO4.D. CuSO4.5H2O.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Ở điều kiện thích hợp, sulfur dioxide đóng vai trò là chất oxi hoá khi tham gia phản ứng với chất nào sau đây?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. NO2.B. H2S.C. NaOH.D. Ca(OH)2.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Hợp chất nào của nitrogen không được tạo ra khi cho HNO3 tác dụng với kim loại?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. NO.B. NH4NO3.C. NO2D. N2O5. 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Có các dung dịch sau: Na2CO3, KCl, AlCl3, FeCl3, NaHSO4, HCl, KOH. Số dung dịch làm quỳ tím hoá đỏ là bao nhiêu?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. 6.B. 5.C. 3.D. 4.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E"> Tiến hành thí nghiệm theo các bước sau:
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Bước 1: Lấy vào ống nghiệm thứ nhất 0,5 ml dung dịch HNO3 đặc (68%) và ống nghiệm thứ hai 0,5 ml dung dịch HNO3 15%.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Bước 2: Cho vào mỗi ống nghiệm một mảnh nhỏ đồng kim loại. Nút các ống nghiệm bằng bông tẩm dung dịch NaOH. Đun nhẹ ống nghiệm thứ hai.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Cho các phát biểu sau:
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(a) Ở hai ống nghiệm, mảnh đồng tan dần, dung dịch chuyển sang màu xanh.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(b) Ở ống nghiệm thứ nhất, có khí màu nâu đỏ thoát ra khỏi dung dịch.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(c) Ở ống nghiệm thứ hai, thấy có khí không màu, không hóa nâu thoát ra khỏi dung dịch.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(d) Bông tẩm dung dịch NaOH có tác dụng hạn chế khí độc NO2 thoát ra khỏi ống nghiệm.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(e) Có thể thay bông tẩm dung dịch NaOH bằng bông tẩm dung dịch NaCl.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Số phát biểu đúng là:
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. 3. B. 1. C. 2. D. 4.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(VD) Cho các phát biểu sau về cân bằng hóa học: 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(a) Cân bằng hóa học là trạng thái của phản ứng thuận nghịch khi tốc độ phản ứng thuận bằng tốc độ phản ứng nghịch.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(b) Ở trạng thái cân bằng hóa học, phản ứng dừng lại.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(c) Trong hệ đạt trạng thái cân bằng hóa học, luôn có mặt của các chất sản phẩm, các chất phản ứng có thể không có.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(d) Ở trạng thái cân bằng hóa học, số mol các chất phản ứng giảm đi bao nhiêu theo phản ứng thuận thì lại được tạo ra bấy nhiêu theo phản ứng nghịch.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(e) Đối với tất cả các cân bằng hóa học trong pha khí, khi thay đổi áp suất của hệ, cân bằng bị chuyển dịch.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Số phát biểu đúng là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. 1.B. 2.C. 3.D. 4.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Tiến hành thí nghiệm như hình vẽ, chỉ thấy bóng đèn ở cốc (c) sáng:
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Cho các nhận định sau:
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(a) Dung dịch sodium chloride (NaCl) có khả năng dẫn điện.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(b) Nước cất và dung dịch saccharose không có khả năng dẫn điện.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(c) Thay dung dịch sodium chloride (natri clorua) bằng dung dịch hydrochloric acid (axit clohiđric) hoặc dung dịch sodium hydroxide (natri hiđroxit), thấy bóng đèn ở cốc (c) sáng.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(d) Thay dung dịch sodium chloride bằng dung dịch ethyl alcohol (ancol etylic) hoặc dung dịch acetic acid (axit axetic), thấy bóng đèn ở cốc (c) không sáng.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">(e) Thay dung dịch sodium chloride bằng sodium chloride rắn, thấy bóng đèn ở cốc (c) không sáng.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Số nhận định đúng là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. 3.B. 4.C. 1.D. 2.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Cho sơ đồ phản ứng: .
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Sau khi cân bằng, tổng hệ số cân bằng của các chất trong phản ứng là 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. 21. B. 19.C. 23. D. 25.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.(Đ – S)
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 1: Cho các chất sau: NaHCO3, Na2HPO3, Al(OH)3, KHSO4, (NH4)2CO3, BaCl2, NH4Cl
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">a) BaCl2 là chất điện li mạnh.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">b) Có 3 chất là muối trung hòa.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">c) Có 3 chất có chất có tính lưỡng tính.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">d) KHSO4 tác dụng với BaCO3 vừa cho kết tủa vừa tạo khí thoát ra.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 2: Cho 5,6 gam CO và 5,4 gam H2O vào một bình kín dung tích không đổi 10 L. Nung nóng bình một thời gian ở 830oC để hệ đạt đến trạng thái cân bằng : CO (g) + H2O (g)  CO2 (g) + H2 (g) 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E"> Hằng số cân bằng KC =1. 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">a) Khi tăng áp suất chung của hệ thì cân bằng chuyển dịch theo chiều thuận.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">b) Khi đạt trạng thái cân bằng thì phản ứng dừng lại.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">c) Khi tăng nồng độ của CO2 lên thì cân bằng chuyển dịch theo chiều thuận.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">d) Nồng độ của CO ở trạng thái cân bằng là 8.10-3M.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 3: Nitric acid và sulfuric acid được sử dụng trong nhiều lĩnh vực như sản xuất thuốc nổ, luyện kim, phân bón, phẩm màu, dầu khí,…
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">a) Dùng dung dịch Ba(OH)2 hoặc Cu kim loại có thể phân biệt được 2 acid trên.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">b) HNO3 và H2SO4 đều là chất điện li mạnh.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">c) HNO3 đặc và H2SO4 đặc có tính oxi hóa mạnh, oxi hóa tất cả các kim loại.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">d) Dung dịch H2SO4 0,005M có pH bằng 2,3.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 4: Trong khí thải của quy trình sản xuất thuốc trừ sâu, phân bón hóa học có lẫn khí NH3. Khí này rất độc đối với sức khoẻ của con người và gây ô nhiễm môi trường. Con người hít phải khí này với lượng lớn sẽ gây ngộ độc: ho, đau ngực (nặng: đau thắt ngực, khó thở, thở nhanh, thở khò khò; chảy nước mắt và bỏng mắt, mù mắt, đau họng nặng, đau miệng; mạch nhanh, yếu, sốc; lẫn lộn, đi lại khó khăn, chóng mặt, thiếu sự phối hợp, bồn chồn, ngẩn ngơ). 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">a) Để xử lí NH3 lẫn trong khí thải, người ta có thể dẫn khí thải qua một bể lọc chứa dung dịch HCl.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">b) Tất cả các muối của NH3 đều bền với nhiệt.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">c) NH3 có tính base mạnh và tính khử mạnh.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">d) Đưa hai đũa thủy tinh có nhúng NH3 đặc và HCl đặc lại gần thấy khói màu trắng xuất hiện.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">PHẦN III: Câu hỏi trắc nghiệm yêu cầu trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 1: Có các phản ứng sau:
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">     
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Có bao nhiêu ion đóng vai trò acid?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 2: Cho các chất dưới đây: HClO4, HClO, HF, HNO3, H2S, H2SO3, NaOH, NaCl, CuSO4, CH3COOH. Số chất thuộc loại chất điện li mạnh là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 3: Một muối X có tính chất như sau
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">X tác dụng với dung dịch HCl và dung dịch NaOH đều tạo khí
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">X không phản ứng với BaCl2 nhưng phản ứng với Ba(OH)2 vừa cho kết tủa vừa tạo khí.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Khối lượng phân tử của X là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 4: Sơ đồ phản ứng sau đây cho thấy rõ vai trò của thiên nhiên và con người trong việc vận chuyển nitrogen từ khí quyển vào trong đất, cung cấp nguồn phân đạm cho cây cối:
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Tổng số nguyên tử có trong phân tử Y là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 5: Trộn 200 gam dung dịch H2SO4 12% với 300 gam dung dịch H2SO4 40% thu được 500 gam dung dịch H2SO4 a%. Giá trị của a là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 6: Hòa tan 8,5 gam hợp kim Au – Ag bằng dung dịch HNO3 đặc nóng dư thu được 1487,4ml khí NO2 (đkc). Hàm lượng của Au có trong hợp kim là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">ĐỀ 3:
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 18. Mỗi câu hỏi thí sinh chỉ chọn một phương án.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 1. Cân bằng hóa học không chịu ảnh hưởng của yếu tố nào sau đây?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. Nồng độ. B. Áp suất.C. Diện tích tiếp xúc.D. Nhiệt độ.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 2.  Giá trị hằng số cân bằng KC của phản ứng thuận nghịch phụ thuộc vào yếu tố nào sau đây?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. Nồng độ các chất.B. Nhiệt độ.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">C. Áp suất.D. Chất xúc tác.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 3. Cho phản ứng thuận nghịch:  CO(g)  +  H2O(g)  CO2(g)  +  H2(g). Biểu thức hằng số cân bằng KC của phản ứng trên là:
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A.  B. 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">C. D. 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 4. Cho phản ứng tổng hợp NH3:    N2(g)  + 3H2(g)  2NH3(g);   = –92 kJ. Biện pháp được áp dụng để tăng hiệu suất tổng hợp NH3 là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. giảm nhiệt độ và giảm áp suất.B. tăng nhiệt độ và tăng áp suất.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">C. giảm nhiệt độ và tăng áp suất.D. tăng nhiệt độ và giảm áp suất.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 5. Sự điện li là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. sự phân li các chất thành các phân tử nhỏ hơn.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">B. sự phân li các chất thành ion khi tan trong nước hoặc ở trạng thái nóng chảy.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">C. sự phân li các chất thành các nguyên tử cấu tạo nên chất đó.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">D. sự phân li các chất thành các chất đơn giản.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 6. Dãy chất nào dưới đây đều là chất điện li?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. NaCl, HNO3, C6H6, C2H5OH.B. NaCl, H2SO4, NaOH, CuCl2.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">C. C6H12O6, C6H6, NaCl, HCl.D. CuSO4, NaOH, HNO3, C2H5OH. 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 7. Chất nào sau đây là chất điện li mạnh?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. NaOH.B. HF.C. Mg(OH)2.D. C2H5OH.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 8. Công thức hóa học của chất mà khi điện li tạo ra ion Ba2+ và NO3- là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. Ba(NO3)2.B. Ba(NO3)3.C. BaNO3.D. Ba(NO2)3.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 9. Theo thuyết Brønsted-Lowry, acid là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. một chất cho cặp electron.B. một chất nhận cặp electron.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">C. một chất cho proton (H+).D. một chất nhận proton (H+).
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 10. Dung dịch chất nào sau đây làm xanh quỳ tím?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. HCl.     B. Na2SO4.    C. NaOH.    D.  KCl.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 11. Xét phương trình hóa học bên: NH3(aq) + H2O(l)   NH4+(aq) + OH–(aq). Các chất đóng vai trò là base trong phản ứng trên có thể là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. NH3 và NH4+.B. NH3 và OH-.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">C. H2O và NH4+.D. H2O và OH-.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 12. Chọn các chất là hydroxide lưỡng tính trong số các hydroxide sau:  
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. Zn(OH)2, Fe(OH)2.B. Al(OH)3, Cr(OH)2.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">C. Zn(OH)2, Al(OH)3.D. Mg(OH)2, Fe(OH)3.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 13. Dung dịch HCl 0,01 M có pH bằng
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. 1.B. 3.C. 2.D. 4.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 14. Cấu hình electron nguyên tử của nitrogen (Z = 7) là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. 1s22s22p1.B. 1s22s22p5.C. 1s22s22p63s23p2.D. 1s22s22p3.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 15. Nitrogen tương đối trơ về mặt hoá học ở nhiệt độ thường là do
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. phân tử N2 có liên kết cộng hoá trị không phân cực.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">B. phân tử N2 có liên kết ion.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">C. phân tử N2 có liên kết ba với năng lượng liên kết lớn.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">D. nitrogen có độ âm điện lớn.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 16. Tác nhân chủ yếu gây mưa acid là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. CO và CH4.B. CH4 và NH3.C. SO2 và NO2.D. CO và CO2.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 17. Cho vài giọt quỳ tím vào dung dịch NH3 thì dung dịch chuyển thành 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. màu hồng.B. màu vàng.C. màu đỏ.D. màu xanh.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 18. Có thể nhận biết muối ammonium bằng cách cho muối tác dụng với dung dịch kiềm thấy thoát ra một chất khí làm xanh quì tím ẩm. Chất khí đó là
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">A. NH3.B. H2.C. NO2.D. NO.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.(Đ – S)
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 1: Độ pH là một trong những yếu tố rất quan trọng để đánh giá các tiêu chí liên quan đến môi trường cũng như sức khoẻ của con người.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">a. Độ pH trong đất được dùng làm cơ sở cho việc sử dụng đất, sử dụng phân bón một cách hợp lí và hiệu quả, từ đó biết được chất lượng môi trường đất. 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">b. Độ pH ở các cơ quan khác nhau trong cơ thể người có giá trị khác nhau. Giá trị này là một trong những yếu tố rất quan trọng phản ánh sức khoẻ của con người. Vì vậy, cần duy trì được chế độ ăn để cơ thể có pH phù hợp, duy trì được sức khoẻ tốt.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">c. Dịch vị dạ dày của con người có chứa acid HCl với pH dao dộng khoảng 1,5 – 3,5. Đây là khoảng pH phù hợp để các enzyme tiêu hoá (các chất xúc tác sinh học) hoạt động hiệu quả.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">d. Độ pH bình thường của máu nằm trong khoảng từ 7,35 đến 7,45. Điều này có nghĩa là máu sẽ hơi có tính base.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 2: Ammonia được tổng hợp bằng cách cho nitrogen tác dụng trực tiếp với hydrogen theo phản ứng sau: N2(g)  +  3H2(g)  2NH3(g)       . Các biện pháp để tăng hiệu suất tổng hợp NH3.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">a. Lấy bớt NH3 ra khỏi sản phẩm.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">b. Giảm nhiệt độ của phản ứng.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">c. Tăng áp suất của phản ứng.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">d. Tăng nhiệt độ của phản ứng.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 3: Cho các phát biểu sau về nitrogen.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">a. Ở dạng đơn chất, nitrogen chiếm khoảng 78% thể tích của không khí.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">b. Ở điều kiện thường, nitrogen là chất khí không màu, không mùi, hóa lỏng ở -1830C.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">c. Ở điều kiện thương nitrogen khá trơ về mặt hóa học vì liên kết ba trong phân tử nitrogen rất bền.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">d. Nitrogen lỏng được dùng để bảo quản các mẫu vật sinh học.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 4: Nitric acid là nguyên liệu hóa học quan trọng, chủ yếu được sử dụng trong sản xuất phân đạm, thuốc súng, thuốc nhuộm, dược phẩm, nhựa và các sản phẩm khác. 
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">a. Nitric acid thể hiện tính oxi hóa mạnh khi tác dụng với copper (II) oxide.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">b. Nitric acid đậm đặc kém bền, bị phân hủy khi chiếu sáng.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">c. Nitric acid là chất có tính oxi hóa mạnh, oxi hóa được hầu hết kim loại trừ Au, Pt, …
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">d. Dung dịch HNO3 đặc nguội tác dụng được với Al, Fe.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">PHẦN III: Câu hỏi trắc nghiệm yêu cầu trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 1: Cho phản ứng sau: aCu  +  bHNO3   cCu(NO3)2  +  dNO  +  eH2O. Với tỉ lệ a : b: c : d : e là số nguyên tối giản. Tổng (a + b) bằng bao nhiêu?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 2: Trong công nghiệp ammonia được tổng hợp từ nitrogen và hydrogen. Cho 14,874 lít N2 (đkc) tác dụng với lượng dư khí H2. Biết hiệu suất của phản ứng là 30%, khối lượng NH3 tạo thành là bao nhiêu gam?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 3: Cho phản ứng sau ở 430oC: H2(g) + I2(g)  2HI(g). Ở trạng thái cân bằng, nồng độ các chất là: [H2] = [I2] = 0,107 M; [HI] = 0,786 M. Hằng số cân bằng KC của phản ứng ở nhiệt độ trên có giá trị là bao nhiêu?
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 4: Trong công nghiệp, người ta sản xuất nitric acid (HNO3) từ ammonia theo sơ đồ chuyển hóa sau:
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">             NH3  NO  NO2 HNO3
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Để điều chế 10 tấn dung dịch HNO3 có nồng độ 68% theo sơ đồ trên thì cần dùng bao nhiêu tấn ammonia? Biết hiệu suất cả quá trình là 90%.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 5: Cho 11,2 gam Fe tác dụng hết với dung dịch HNO3 loãng (dư), sau phản ứng thu được V lít (đkc) khí NO là sản phẩm khử duy nhất. Tính giá trị của V.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">Câu 6: Hỗn hợp khí X gồm N2 và H2 có tỉ khối so với He bằng 1,8. Đun nóng X một thời gian trong bình kín (có bột Fe làm xúc tác), thu được hỗn hợp khí Y có tỉ khối so với He bằng 2. Hiệu suất của phản ứng tổng hợp NH3 là
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">ĐỀ 4:
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">PHẦN I. Câu trắc nghiệm nhiều phương án lựa chọn. Thí sinh trả lời từ câu 1 đến câu 18. Mỗi câu hỏi thí sinh chỉ chọn một phương án.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 1. Phản ứng nào sau đây là phản ứng thuận nghịch?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. Mg + 2HCl → MgCl2 + H2.B. 2SO2 + O2  2SO3.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">C. C2H5OH + 3O2  2CO2 + 3H2O.D. 2KClO3  2KCl + 3O2
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 2. Mối quan hệ giữa tốc độ phản ứng thuận vt và tốc độ phản ứng nghịch vn ở trạng thái cân bằng được biểu diễn như thế nào?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. vt= 2vn.B. vt=vn 0.C. vt=0,5vn.D. vt=vn=0.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 3. Các yếu tố có thể ảnh hưởng đến cân bằng hoá học là 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. nồng độ, nhiệt độ và chất xúc tác.B. nồng độ, áp suất và diện tích bề mặt.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">C. nồng độ, nhiệt độ và áp suất.D. áp suất, nhiệt độ và chất xúc tác.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 4. Hằng số cân bằng KC của một phản ứng thuận nghịch phụ thuộc vào yếu tố nào sau đây?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. Nồng độ.B. Chất xúc tác.C. Áp suất.D. Nhiệt độ.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 5. Biểu thức tính hằng số cân bằng của phản ứng: H2(g) + I2(g) 2HI(g) là
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. B. C. D. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 6. Chất nào sau đây là chất điện li yếu?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. CH3COOH.B. C2H5OH.C. KNO3.D. HCl.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 7. Cho phương trình: NH3 + H2O NH4+ + OH-. Trong phản ứng nghịch, theo thuyết Bronsted – Lowry chất nào là acid?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. NH3.B. H2O.C. NH4+.D. OH-.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 8. Dung dịch chất nào sau đây làm quỳ tím chuyển thành màu xanh?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. HCl.B. CH3COONa.C. KNO3.D. C2H5OH.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 9. Ở nhiệt độ thường, nitrogen khá trơ về mặt hoạt động là do
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. Nitrogen có bán kính nguyên tử nhỏ.B. Nitrogen có độ âm điện lớn nhất trong nhóm.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">C. Phân tử nitrogen có liên kết ba khá bền.D. Phân tử nitrogen không phân cực. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 10. Phân tử NH3 có dạng hình học là
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. tam giác phẳng.B. tứ diện.C. chóp đáy tam giác.   D. tam giác đều.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 11. Muối ammonium nitrate khi bị phân hủy thu được khí nào?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. N2.B. NH3.C. NO2.   D. N2O.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 12. HNO3 tác dụng với chất nào sau đây chỉ thể hiện tính acid?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> A. copper (II) oxide.B. iron (II) hydroxide.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> C. carbon. D. phosphorus.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 13. Hợp chất nào sau đây khi tác dụng với HNO3 thì xảy ra phản ứng oxi hóa khử?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> A. Ba(OH)2B. Al2O3.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> C. NaHCO3. D. Fe3O4.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 14. Dung dịch nước cường toan có thể hòa tan được vàng. Thành phần của nước cường toan là hỗn hợp của các acid đặc
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. HCl, H2SO4, HNO3 tỉ lệ thế tích 1:1:1.B. HCl và H2SO4 tỉ lệ thể tích 1:3.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> C. HCl và HNO3 tỉ lệ thể tích 3:1.D. H2SO4 và HNO3 tỉ lệ thể tích 3:1.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 15. Trong các nhà máy người ta có thể dùng chất nào sau đây để hấp thụ khí thải có SO2?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">A. nước cất.B. dung dịch nước vôi trong.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> C. dung dịch sodium chloride.D. benzene hoặc ethanol.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 16. Kim loại nào sau đây tác dụng với Sulfur ở nhiệt độ thường?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> A. Thủy ngân.B. Sắt.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> C. Aluminium. D. Sodium.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 17:Phản ứng nào sau đây viết sai?
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> A. S + 3F2  SF6..B. .
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> C. SO2 + H2S  3S + H2O. D.  S + Fe  Fe2S3.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 18:Sulfur dioxide thể hiện tính khử khi phản ứng với dãy chất gồm:
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> A. dung dịch Ca(OH)2, CaO, nước Br2.B. O2, dung dịch HNO3 đặc, H2S.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E"> C. dung dịch NaOH, O2, dung dịch KMnO4. D. O2, nước Br2, dung dịch KMnO4.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">PHẦN II. Câu trắc nghiệm đúng sai. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c), d) ở mỗi câu, thí sinh chọn đúng hoặc sai.(Đ – S)
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 1.  Cho cân bằng hóa học của phản ứng sau :
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">2NO2(g) (màu nâu đỏ)N2O4(g) (không màu) = –58 kJ
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">a. Chiều thuận là quá trình tỏa nhiệt.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">b. Khi hệ đạt trạng thái cân bằng, nếu ngâm vào cốc nước nóng sẽ làm màu hỗn hợp đậm dần lên. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">c. Khi hệ đạt trạng thái cân bằng, nếu ngâm vào cốc nước đá cân bằng dịch chuyển theo chiều nghịch.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">d. Tại trạng thái cân bằng, số mol NO2 bằng số mol N2O4.  
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 2. Khi tiến hành thí nghiệm chuẩn độ acid-base, trong burrette đựng dung dịch NaOH, trong bình tam giác đựng dung dịch HCl (đã biết nồng độ) và thuốc thử phenolphtalein. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">a. Khi dung dịch trong bình tam giác từ không màu chuyển sang màu hồng bền trong 30 giây thì dừng chuẩn độ. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">b. Phải thực hiện chuẩn độ tối thiểu 3 lần. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">c. Tại điểm tương đương, thể tích NaOH bằng thể tích dung dịch HCl. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">d. Khi chuẩn độ cần để chất lỏng chảy từ từ theo thành bình tam giác. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 3.  Hãy xác định phát biểu đúng, sai.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">a. Khí Nitrogen trơ lỏng dùng bảo quản các mẫu vật sinh học. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">b. Các phản ứng phân hủy muối ammonium có nguy cơ gây cháy nổ. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">c. Hiện tượng phú dưỡng làm cản trở môi trường phát triển của rong tảo, suy kiệt nguồn thủy sản. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">d. Hiện tượng mưa acid làm tăng pH của nước ao hồ, phá hủy các công trình xây dựng. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 4.  Hãy xác định phát biểu đúng, sai.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">a. Trong tự nhiên, sulfur có ở cả dạng đơn chất và hợp chất. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">b. Sulfur không tan trong nước nhưng tan được trong CS2. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">c. SO2 thể hiện tính khử khi tác dụng với KMnO4 và tính oxi hóa khi tác dụng với nước bromine. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">d. SO2 có màu vàng lục và rất độc. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">PHẦN III: Câu hỏi trắc nghiệm yêu cầu trả lời ngắn. Thí sinh trả lời từ câu 1 đến câu 6.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 1: Tính pH 200 mL dung dịch Ba(OH)2 0,05M.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 2: Khí nitrogen hóa lỏng ở nhiệt độ nào? 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 3: Cho sơ đồ chuyển hoá nitrogen trong khí quyển thành phân đạm:
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Có bao nhiêu phản ứng oxi hóa khử xảy ra trong sơ đồ trên? 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 4: Một bình phản ứng có dung tích không đổi, chứa hỗn hợp khí N2 và H2 với nồng độ tương ứng là 0,3M và 0,7M. Sau khi phản ứng tổng hợp NH3 đạt trạng thái cân bằng ở toC, H2 chiếm 50% thể tích hỗn hợp thu được. Tính giá trị hằng số cân bằng KC.
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 5: Việt được giáo viên yêu cầu thực hiện thí nghiệm chuẩn độ dung dịch NaOH chưa biết nồng độ bằng dung dịch chuẩn HCl 0,1M, thuốc thử phenolphtalein. Việt đã lấy 10,00 ml dung dịch HCl 0,1M cho vào bình tam giác cùng với 1-2 giọt thuốc thử. Kết quả các lần chuẩn độ được ghi chú như sau:
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Lần 1
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Lần 2
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Lần 3
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">15,60 ml
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">15,65 ml
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">15,60 ml
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Tính nồng độ mol/lit của NaOH trong dung dịch X. 
+w:rsidR="00526A6E" w:rsidRPr="00F24015" w:rsidRDefault="00526A6E" w:rsidP="00526A6E">Câu 6: Hấp thụ toàn bộ 7,437 lít khí SO2 (điều kiện chuẩn) vào m1 gam dung dịch chứa 0,25 mol Ba(OH)2. Sau phản ứng khối lượng dung dịch là m2 gam. Tính giá trị m2-m1.
+w:rsidR="009D4216" w:rsidRPr="00F24015" w:rsidRDefault="009D4216" w:rsidP="00526A6E">

@@ -1,0 +1,633 @@
+﻿
+
+w14:paraId="4A9B5867" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="00FA59B2">
+w14:paraId="0D66179E" w14:textId="7FB0D737" w:rsidR="003B4F48" w:rsidRPr="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">MA TRẬN KIỂM TRA GIỮA KÌ I NĂM HỌC 2026 – 2027 – KHỐI 10
+w14:paraId="20A4BCC7" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">1. Cấu trúc đề (Trắc nghiệm: 7,0 điểm + Tự luận: 3,0 điểm)
+w14:paraId="6AEAD07E" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="4D4D6670" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Phần câu hỏi
+w14:paraId="2D5FA97C" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Dạng thức câu hỏi
+w14:paraId="49F5C8DF" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Số câu
+w14:paraId="7527F025" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Số lệnh hỏi
+w14:paraId="1834B32E" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Số điểm/
+w14:paraId="38CAA961" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Lệnh hỏi
+w14:paraId="51D0B485" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Số điểm
+w14:paraId="739A731C" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">
+w14:paraId="073EFF13" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">
+w14:paraId="16CC1FCC" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Trắc nghiệm
+w14:paraId="2FEC88D0" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00D32BFD" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Phần 1 (I)
+w14:paraId="204953C7" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Câu trắc nghiệm 4 phương án lựa chọn
+w14:paraId="381FC652" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">12 câu
+w14:paraId="36080724" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">(Từ câu 1 đến câu 12)
+w14:paraId="6D06B143" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">12
+w14:paraId="34CB5898" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">0,25/12
+w14:paraId="78127F6E" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">3,0
+w14:paraId="028E560C" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">
+w14:paraId="2987CBA0" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Phần 2 (II)
+w14:paraId="599B749F" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Câu trắc nghiệm đúng sai
+w14:paraId="3BD5CAC8" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">2 câu
+w14:paraId="13D13E64" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">(Từ câu 1 đến câu 2)
+w14:paraId="5D532CBC" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">8
+w14:paraId="5AE82128" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">0,25/8
+w14:paraId="164CD4D9" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">2,0
+w14:paraId="1AA3523B" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">
+w14:paraId="06966D0A" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Phần 3 (III)
+w14:paraId="53E1D6AC" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Câu trắc nghiệm yêu cầu trả lời ngắn
+w14:paraId="19F56D9D" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">6 câu
+w14:paraId="777ACD70" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">(Từ câu 1 đến câu 6)
+w14:paraId="3D2844BD" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">6
+w14:paraId="4CE1D4A9" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">0,33/6
+w14:paraId="0EA8349C" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">2,0
+w14:paraId="4E611E10" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Tự luận
+w14:paraId="7ECB2AE5" w14:textId="27975E7A" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Phần 4 (IV)
+w14:paraId="53398049" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Tự luận
+w14:paraId="5FFB5C57" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">3 câu
+w14:paraId="49125E0E" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">(Từ câu 1 đến câu 3)
+w14:paraId="60AF20DE" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">6
+w14:paraId="398CC010" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">0,5/6
+w14:paraId="67B0F05D" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">3,0
+w14:paraId="0D08304E" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">Tổng
+w14:paraId="0E31C880" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">
+w14:paraId="26E597C4" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">
+w14:paraId="50FBF5B2" w14:textId="72D133C4" w:rsidR="003B4F48" w:rsidRPr="007D7E83" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">23
+w14:paraId="6D0D900B" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">32
+w14:paraId="3C5BE2CB" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">
+w14:paraId="2C1855B2" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRPr="00876517" w:rsidRDefault="003B4F48" w:rsidP="00CE0153">10,0
+w14:paraId="13C72B48" w14:textId="5AD41776" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="1594ED73" w14:textId="44D0C387" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="17E9F806" w14:textId="47A57B43" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="32769CD9" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="7FD19D9A" w14:textId="279827DD" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="133E1A23" w14:textId="507D63D1" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="756B1E1E" w14:textId="296F52E5" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="2ECBE78B" w14:textId="5F7E9CDB" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="175463D7" w14:textId="1B86E043" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="205623D0" w14:textId="264328E8" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="79850AD8" w14:textId="77777777" w:rsidR="003B4F48" w:rsidRDefault="003B4F48" w:rsidP="003B4F48">
+w14:paraId="24B9A129" w14:textId="51BB4725" w:rsidR="00AA3A2E" w:rsidRPr="003B4F48" w:rsidRDefault="00E80EB0" w:rsidP="003B4F48">MA TRẬN ĐỀ KIỂM TRA GIỮA HỌC KÌ I - LỚP 10- MÔN HÓA HỌC – NĂM HỌC 2026 -2027
+w14:paraId="00687465" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="4245F9A5" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="1186F634" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">TT
+w14:paraId="019FE0CB" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="6D7F6C30" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="4C66603A" w14:textId="63EFB06D" w:rsidR="00AA3A2E" w:rsidRPr="003B7E4E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Chủ đề
+w14:paraId="0E8680F1" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="590D584B" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="70011EAB" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Đơn vị kiến thức
+w14:paraId="760275C3" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Mức độ đánh giá
+w14:paraId="576CAC8E" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="7F24A105" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="3B422A10" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Tổng
+w14:paraId="74547B5B" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="680D4033" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="5F64E554" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Tỉ lệ
+w14:paraId="3CBEAA92" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">%
+w14:paraId="79A281D2" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">điểm
+w14:paraId="4BA10351" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="7B092160" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="28524FBF" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="78CA0D34" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">TNKQ
+w14:paraId="7A697448" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Tự luận (IV)
+w14:paraId="3A9ED9AE" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="7B11B4DC" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="4B53B579" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="6565C9FB" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="0D029906" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="37B531CE" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Nhiều lựa chọn (I)
+w14:paraId="3D446F46" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">“Đúng – sai” (II)
+w14:paraId="056D9631" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Trả lời ngắn (III)
+w14:paraId="58278D65" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="0068535B" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="3D52809B" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="61C54658" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="682876C2" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="7360D3AE" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="64A5A6EE" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Biết
+w14:paraId="4201E7E1" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Hiểu
+w14:paraId="5E298066" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">VD
+w14:paraId="792FA4D7" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Biết
+w14:paraId="33D3B980" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Hiểu
+w14:paraId="5C8044D5" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">VD
+w14:paraId="3FDD7758" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Biết
+w14:paraId="2E384E40" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Hiểu
+w14:paraId="411EBA94" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">VD
+w14:paraId="52E884A0" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Biết
+w14:paraId="3D34C531" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Hiểu
+w14:paraId="2C7DC530" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">VD
+w14:paraId="70029ADA" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Biết
+w14:paraId="2EFB83EC" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">Hiểu
+w14:paraId="0200CFC7" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00E80EB0" w:rsidP="006D0297">VD
+w14:paraId="742FAD01" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E" w:rsidP="006D0297">
+w14:paraId="5D8236B8" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="677A07E9" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="4F8E5208" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="21EDD553" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="3C1D9184" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">1
+w14:paraId="55644FEA" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="045AB17B" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="5D38EDF6" w14:textId="3F856F31" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">Cấu tạo nguyên tử 
+w14:paraId="6C0DE688" w14:textId="2F24A48C" w:rsidR="00AF6FC4" w:rsidRPr="006A6930" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">Thành phần của nguyên tử
+w14:paraId="6C51EC62" w14:textId="60187FA0" w:rsidR="00AF6FC4" w:rsidRPr="00180F8D" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">C1
+w14:paraId="1DE66AE8" w14:textId="73861871" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="2BA01123" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="3962EE15" w14:textId="49DBDB53" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">C11
+w14:paraId="0BA1E003" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="25A4AA42" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="43B09B7E" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="5815DFC0" w14:textId="3099BAC4" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="6DBABE12" w14:textId="4D784697" w:rsidR="000072E9" w:rsidRDefault="000072E9" w:rsidP="006D0297">
+w14:paraId="1A38EB9F" w14:textId="77777777" w:rsidR="0001649D" w:rsidRDefault="0001649D" w:rsidP="006D0297">
+w14:paraId="44743C88" w14:textId="49C6BB00" w:rsidR="000072E9" w:rsidRPr="0001649D" w:rsidRDefault="000072E9" w:rsidP="0001649D">
+w14:paraId="3C0F7585" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="2D49B692" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="60F11511" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="7F6B60E9" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="0BC3C7A2" w14:textId="77777777" w:rsidR="000072E9" w:rsidRDefault="000072E9" w:rsidP="006D0297">
+w14:paraId="36268397" w14:textId="77777777" w:rsidR="000072E9" w:rsidRDefault="000072E9" w:rsidP="006D0297">
+w14:paraId="67E1AA8F" w14:textId="7161D2C7" w:rsidR="00AF6FC4" w:rsidRPr="00CC0FEA" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="57591148" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="0EF8CF20" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="7A2EBB8A" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="6DDD90D2" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="6809B382" w14:textId="349B7C1D" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="2D890C4A" w14:textId="53D6CC5E" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="7DA9472C" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="5AD77CF7" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="621C7072" w14:textId="1C5BE874" w:rsidR="00AF6FC4" w:rsidRDefault="00127B48" w:rsidP="006D0297">     C6
+w14:paraId="7812C337" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="02D81436" w14:textId="67DD134D" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="368C1F94" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="38A440F1" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="43F28BCB" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="3ED13BE4" w14:textId="416CD204" w:rsidR="00AF6FC4" w:rsidRPr="00DC0DDE" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">C1a
+w14:paraId="4430A9BC" w14:textId="6B14160C" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="19EC6D89" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="1E32EB40" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="66E1B1C5" w14:textId="293B6B51" w:rsidR="00AF6FC4" w:rsidRPr="00DC0DDE" w:rsidRDefault="0001649D" w:rsidP="006D0297">C1b
+w14:paraId="7B6DC714" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="3D7B356A" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="3ABCF3C2" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="7DE0218E" w14:textId="205DEF2E" w:rsidR="00AF6FC4" w:rsidRPr="00941175" w:rsidRDefault="00A03A9C" w:rsidP="00941175">4
+w14:paraId="1A743AC0" w14:textId="7F147038" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="77FE9C75" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="7DC523FE" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="0F02D245" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="7A495271" w14:textId="771B6739" w:rsidR="00AF6FC4" w:rsidRPr="00941175" w:rsidRDefault="00A03A9C" w:rsidP="00941175">2
+w14:paraId="69ECADC9" w14:textId="0B9DBAA5" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="37D3F839" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="59E67461" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="790B86A0" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="4A389CB7" w14:textId="227EC9A0" w:rsidR="00AF6FC4" w:rsidRPr="00941175" w:rsidRDefault="002877F1" w:rsidP="00941175">4
+w14:paraId="78E0E43B" w14:textId="4E220EC7" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="66A09DC6" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="3AD195F6" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="1572E0D3" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="7327CC0D" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="58CC00EA" w14:textId="6A903CE5" w:rsidR="00AF6FC4" w:rsidRDefault="002877F1" w:rsidP="006D0297">32,50%
+w14:paraId="6B74E466" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="7E6B184F" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="6D908742" w14:textId="12CC4BF6" w:rsidR="00AF6FC4" w:rsidRPr="006A6930" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">Nguyên tố hóa học (3 tiết) 
+w14:paraId="5CA1D2DB" w14:textId="3ADFFC83" w:rsidR="00AF6FC4" w:rsidRPr="00180F8D" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">C2
+w14:paraId="4722FA58" w14:textId="166D0231" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="23EAD331" w14:textId="3695543B" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="02B4D4BF" w14:textId="05D49B00" w:rsidR="00AF6FC4" w:rsidRPr="00CC0FEA" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297"> 
+w14:paraId="6E5263F9" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="69D23753" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="40A16343" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="0A69E1B4" w14:textId="41D1A69B" w:rsidR="00AF6FC4" w:rsidRPr="0001649D" w:rsidRDefault="0001649D" w:rsidP="006D0297">    C1
+w14:paraId="1B045A22" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="1102967B" w14:textId="553CA47F" w:rsidR="00AF6FC4" w:rsidRPr="00DC0DDE" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">C4
+w14:paraId="2B53B524" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="4558F25B" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="00566375" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="0D321D2E" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="56961E7D" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="581C9324" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="5B45B2A7" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="0719A2CD" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="7D8753A8" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="4BA15548" w14:textId="45B76EA8" w:rsidR="006D3DED" w:rsidRPr="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">Cấu trúc lớp vỏ electron nguyên tử 
+w14:paraId="5F50A652" w14:textId="076A2AFB" w:rsidR="006D3DED" w:rsidRPr="00180F8D" w:rsidRDefault="006D3DED" w:rsidP="006D3DED">C3
+w14:paraId="3F858FD6" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="6D864F0C" w14:textId="18CB04D8" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">C8
+w14:paraId="5493809C" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="39B9C740" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="271DAF47" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="38DA0625" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="1F2A7AA2" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="3BAF4D60" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="4F384260" w14:textId="70D55C04" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="3C57494C" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="7BA3BC14" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="53733271" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="0562F78A" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="40BF1E7B" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="7F013B1B" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="6D45869F" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="1F4A7FDE" w14:textId="77777777" w:rsidR="006D3DED" w:rsidRDefault="006D3DED" w:rsidP="006D0297">
+w14:paraId="23E03DBE" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="6CAD61A3" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">2
+w14:paraId="52878C38" w14:textId="439C5499" w:rsidR="00AF6FC4" w:rsidRPr="006D3DED" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">Bảng tuần hoàn các nguyên tố hóa học và định luật tuần hoàn
+w14:paraId="351B30AA" w14:textId="4AF23CCB" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297"> Cấu tạo của bảng tuần hoàn các nguyên tố hóa học
+w14:paraId="3254736D" w14:textId="5EFEB80F" w:rsidR="00AF6FC4" w:rsidRPr="00180F8D" w:rsidRDefault="00AF6FC4" w:rsidP="00350DC0">C4, C5
+w14:paraId="6CDCDAA3" w14:textId="416AC181" w:rsidR="00AF6FC4" w:rsidRPr="00CC0FEA" w:rsidRDefault="00350DC0" w:rsidP="00350DC0">    C9
+w14:paraId="2EC74574" w14:textId="7A82541F" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="00350DC0">
+w14:paraId="0D8B8D94" w14:textId="77777777" w:rsidR="00A03A9C" w:rsidRPr="00A03A9C" w:rsidRDefault="00A03A9C" w:rsidP="00A03A9C">C1a C1b
+w14:paraId="7EDBEC10" w14:textId="1C313240" w:rsidR="00A03A9C" w:rsidRDefault="00A03A9C" w:rsidP="00350DC0">  C1c
+w14:paraId="420E4384" w14:textId="77777777" w:rsidR="00A03A9C" w:rsidRDefault="00A03A9C" w:rsidP="006D0297">
+w14:paraId="4111BC00" w14:textId="293132C7" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="01247AD2" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="48ACC773" w14:textId="41DD50AA" w:rsidR="00AF6FC4" w:rsidRPr="00CC0FEA" w:rsidRDefault="00A03A9C" w:rsidP="00350DC0">C1d
+w14:paraId="276C7466" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="06BA3CEF" w14:textId="4F8826B5" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="751B6764" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">C2
+w14:paraId="31C04211" w14:textId="20CCEEF8" w:rsidR="0001649D" w:rsidRPr="00DC0DDE" w:rsidRDefault="0001649D" w:rsidP="006D0297">C3
+w14:paraId="37B34438" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="734CDB1A" w14:textId="1440A959" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="2F327631" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="667E6E94" w14:textId="626C5535" w:rsidR="00AF6FC4" w:rsidRPr="00DC0DDE" w:rsidRDefault="00AF6FC4" w:rsidP="00350DC0">C5
+w14:paraId="1B65009B" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="6000A633" w14:textId="710DCF15" w:rsidR="00AF6FC4" w:rsidRDefault="0001649D" w:rsidP="00350DC0">  C2a
+w14:paraId="31D25E00" w14:textId="39CE49FF" w:rsidR="00AF6FC4" w:rsidRDefault="0001649D" w:rsidP="00350DC0"> C2b
+w14:paraId="6E6D05C1" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="6782C28F" w14:textId="1E6B8176" w:rsidR="00AF6FC4" w:rsidRPr="00941175" w:rsidRDefault="00A03A9C" w:rsidP="006D0297">11
+w14:paraId="1E6ED51F" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="1CF2D2B1" w14:textId="3DD6F457" w:rsidR="00AF6FC4" w:rsidRPr="00941175" w:rsidRDefault="00A03A9C" w:rsidP="006D0297">7
+w14:paraId="2A898E45" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="7A23A8DB" w14:textId="11ADBD42" w:rsidR="00AF6FC4" w:rsidRPr="00941175" w:rsidRDefault="002877F1" w:rsidP="006D0297">4
+w14:paraId="4511D7D0" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="589122F3" w14:textId="386873CE" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="1A2F74E3" w14:textId="29A3F425" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="11D9F474" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="52F69CB1" w14:textId="1EF142C7" w:rsidR="00AF6FC4" w:rsidRDefault="002877F1" w:rsidP="006D0297">67,50%
+w14:paraId="281FF107" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="6C6E51A9" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="5F3FC278" w14:textId="5A7A788D" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297"> Xu hướng biến đổi  một số của nguyên tử các nguyên tố trong một chu kì và một nhóm ( 3 tiết)
+w14:paraId="7DC5E324" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">C6
+w14:paraId="2C145C06" w14:textId="7C50F87F" w:rsidR="000072E9" w:rsidRPr="00180F8D" w:rsidRDefault="000072E9" w:rsidP="006D0297">C7
+w14:paraId="241B1145" w14:textId="400C7869" w:rsidR="00AF6FC4" w:rsidRPr="00CC0FEA" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">C10
+w14:paraId="3D725BA8" w14:textId="47A92471" w:rsidR="00AF6FC4" w:rsidRDefault="00350DC0" w:rsidP="006D0297">C12
+w14:paraId="673322D5" w14:textId="5F75C6D8" w:rsidR="00AF6FC4" w:rsidRDefault="00350DC0" w:rsidP="006D0297">C2a C2b
+w14:paraId="4252D991" w14:textId="77777777" w:rsidR="00350DC0" w:rsidRDefault="00350DC0" w:rsidP="00350DC0">C2c
+w14:paraId="2FCC2750" w14:textId="7F71720E" w:rsidR="00AF6FC4" w:rsidRDefault="00350DC0" w:rsidP="00350DC0">C2d
+w14:paraId="460CEB0C" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="78A21408" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="7CE76D97" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="55642F44" w14:textId="74868BF0" w:rsidR="00AF6FC4" w:rsidRDefault="00350DC0" w:rsidP="006D0297">    
+w14:paraId="7F7635D1" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="74FB8543" w14:textId="7208184B" w:rsidR="00AF6FC4" w:rsidRPr="00DC0DDE" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">C3b
+w14:paraId="703462BC" w14:textId="4A23F79E" w:rsidR="00AF6FC4" w:rsidRPr="00DC0DDE" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">C3a
+w14:paraId="24BCA8D4" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="74A5A175" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="112FFA8C" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="78AB75D8" w14:textId="77777777" w:rsidR="00AF6FC4" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">
+w14:paraId="6B5AFC81" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">Tổng số lệnh hỏi
+w14:paraId="1C95CE56" w14:textId="3271D07B" w:rsidR="003B7E4E" w:rsidRPr="00941175" w:rsidRDefault="00941175" w:rsidP="006D0297">7
+w14:paraId="3A197B41" w14:textId="2F0FFEA0" w:rsidR="003B7E4E" w:rsidRPr="00DC0DDE" w:rsidRDefault="00941175" w:rsidP="006D0297">3
+w14:paraId="7E9A476C" w14:textId="65951051" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">2
+w14:paraId="7FB30021" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">4
+w14:paraId="1118E29C" w14:textId="525AB575" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">4
+w14:paraId="02BA2E74" w14:textId="654EF51F" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">0
+w14:paraId="3B94B8F6" w14:textId="6BE221E0" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">3
+w14:paraId="53887E46" w14:textId="5769264F" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">0
+w14:paraId="36612A28" w14:textId="132F6E0A" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">3
+w14:paraId="489B1B7E" w14:textId="34F26953" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">0
+w14:paraId="017A9E3F" w14:textId="37E603CB" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">3
+w14:paraId="581598D3" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">3
+w14:paraId="4F94AA7F" w14:textId="716122A0" w:rsidR="003B7E4E" w:rsidRPr="00941175" w:rsidRDefault="00941175" w:rsidP="006D0297">15
+w14:paraId="155DB942" w14:textId="367A4ABD" w:rsidR="003B7E4E" w:rsidRPr="00941175" w:rsidRDefault="00941175" w:rsidP="006D0297">9
+w14:paraId="4798DAC3" w14:textId="0C91FCD2" w:rsidR="003B7E4E" w:rsidRPr="00941175" w:rsidRDefault="00941175" w:rsidP="006D0297">8
+w14:paraId="4E0D571C" w14:textId="233D4E4C" w:rsidR="003B7E4E" w:rsidRPr="00941175" w:rsidRDefault="00941175" w:rsidP="006D0297"> 32
+w14:paraId="056FB099" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">Tổng số điểm
+w14:paraId="28D694F5" w14:textId="29C2A56B" w:rsidR="003B7E4E" w:rsidRPr="000072E9" w:rsidRDefault="000072E9" w:rsidP="006D0297">1,75
+w14:paraId="4B1D3765" w14:textId="340E34EE" w:rsidR="003B7E4E" w:rsidRPr="00DC0DDE" w:rsidRDefault="00EC452F" w:rsidP="006D0297">0,75
+w14:paraId="3AE306F7" w14:textId="7F542524" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">0,5
+w14:paraId="328F1370" w14:textId="2C529CCA" w:rsidR="003B7E4E" w:rsidRPr="000072E9" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">1,25
+w14:paraId="35E98422" w14:textId="7C3BCA28" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="000072E9" w:rsidP="006D0297">0,75
+w14:paraId="5A7EDB06" w14:textId="04C63237" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">0
+w14:paraId="4FA56ABE" w14:textId="2A10336E" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">1,0
+w14:paraId="17FCD4A4" w14:textId="4AF61F5B" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">0
+w14:paraId="59765458" w14:textId="03BD705B" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">1,0
+w14:paraId="2B8E99B9" w14:textId="46402459" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">0
+w14:paraId="18AC1B50" w14:textId="540E9903" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">1,5
+w14:paraId="1DA07C05" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">1,5
+w14:paraId="30C288E2" w14:textId="370C8FD7" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">4,0
+w14:paraId="320A215E" w14:textId="29214CC6" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00EC452F" w:rsidP="006D0297">3,0
+w14:paraId="49AECFC4" w14:textId="1085BEFC" w:rsidR="003B7E4E" w:rsidRPr="00EC452F" w:rsidRDefault="00AF6FC4" w:rsidP="006D0297">3,0
+w14:paraId="52656A05" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">10
+w14:paraId="1A025577" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">Tỉ lệ %
+w14:paraId="66957A57" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">30%
+w14:paraId="0F8339B8" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">20%
+w14:paraId="384A00B7" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">20%
+w14:paraId="0A0A4127" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">30%
+w14:paraId="46723262" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">40%
+w14:paraId="2603C2CE" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">30%
+w14:paraId="79550D35" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">30%
+w14:paraId="4EE8A92F" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E" w:rsidP="006D0297">100%
+w14:paraId="6EA76864" w14:textId="77777777" w:rsidR="00AA3A2E" w:rsidRDefault="00AA3A2E">
+w14:paraId="2AFDFD66" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E">
+w14:paraId="279FD946" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E">
+w14:paraId="04AE08A8" w14:textId="77777777" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E">
+w14:paraId="33FE7B57" w14:textId="5F66C55A" w:rsidR="003B7E4E" w:rsidRDefault="003B7E4E">
+w14:paraId="44CE7838" w14:textId="08E08BDE" w:rsidR="00AA3A2E" w:rsidRPr="003B4F48" w:rsidRDefault="00E80EB0" w:rsidP="003B4F48">BẢN ĐẶC TẢ ĐỀ KIỂM TRA GIỮA HỌC KÌ I - LỚP 10- MÔN HÓA HỌC – NĂM HỌC 2026 -2027
+w14:paraId="39312710" w14:textId="77777777" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">TT
+w14:paraId="2DB45B4B" w14:textId="77777777" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">Chương
+w14:paraId="7B1F14D9" w14:textId="603A485D" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">Nội dung/ đợn vị kiến thức
+w14:paraId="67236E20" w14:textId="59B92087" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">Cấp độ tư duy
+w14:paraId="726FC968" w14:textId="11C25429" w:rsidR="006D0297" w:rsidRPr="007D7E83" w:rsidRDefault="006D0297" w:rsidP="007D7E83">Yêu cầu cần đạt – Chỉ báo
+w14:paraId="5E1995E8" w14:textId="36614E19" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">Số lượng lệnh hỏi ở các mức độ
+w14:paraId="40E54D12" w14:textId="77777777" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">
+w14:paraId="37CA9244" w14:textId="77777777" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">
+w14:paraId="715A15AA" w14:textId="77777777" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">
+w14:paraId="48DB3E8D" w14:textId="77777777" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">
+w14:paraId="27FE083B" w14:textId="5544BB88" w:rsidR="006D0297" w:rsidRPr="007D7E83" w:rsidRDefault="006D0297" w:rsidP="007D7E83">
+w14:paraId="19B6099B" w14:textId="22D6FA0F" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">Trắc nghiệm
+w14:paraId="0194A423" w14:textId="3A494AE4" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">Tự luận
+w14:paraId="3DE1058E" w14:textId="77777777" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">
+w14:paraId="7C9F0109" w14:textId="77777777" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">
+w14:paraId="7AF7A383" w14:textId="77777777" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">
+w14:paraId="54A453B5" w14:textId="77777777" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">
+w14:paraId="0948D280" w14:textId="1DFB8183" w:rsidR="006D0297" w:rsidRPr="007D7E83" w:rsidRDefault="006D0297" w:rsidP="007D7E83">
+w14:paraId="49C0405B" w14:textId="22A25366" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">Nhiều lựa chọn
+w14:paraId="6F71C450" w14:textId="36A45F44" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">Đúng – Sai
+w14:paraId="7A85286C" w14:textId="17B20983" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">Trả lời ngắn
+w14:paraId="7308838E" w14:textId="77777777" w:rsidR="006D0297" w:rsidRPr="003B4F48" w:rsidRDefault="006D0297" w:rsidP="003B4F48">
+w14:paraId="48A2F154" w14:textId="7C023FAF" w:rsidR="00E05ABF" w:rsidRPr="003B4F48" w:rsidRDefault="00E05ABF" w:rsidP="003B4F48">(1)
+w14:paraId="2E10ECDF" w14:textId="32182AF6" w:rsidR="00E05ABF" w:rsidRPr="003B4F48" w:rsidRDefault="00E05ABF" w:rsidP="003B4F48">(2)
+w14:paraId="5A5BFA2E" w14:textId="4E453918" w:rsidR="00E05ABF" w:rsidRPr="003B4F48" w:rsidRDefault="00E05ABF" w:rsidP="003B4F48">(3)
+w14:paraId="1CE52222" w14:textId="082B7644" w:rsidR="00E05ABF" w:rsidRPr="003B4F48" w:rsidRDefault="00E05ABF" w:rsidP="003B4F48">(4)
+w14:paraId="1599A861" w14:textId="1C89AFB9" w:rsidR="00E05ABF" w:rsidRPr="007D7E83" w:rsidRDefault="00E05ABF" w:rsidP="007D7E83">(5)
+w14:paraId="42DD59C5" w14:textId="2B6384E8" w:rsidR="00E05ABF" w:rsidRPr="003B4F48" w:rsidRDefault="00E05ABF" w:rsidP="003B4F48">(6)
+w14:paraId="40C9ADD0" w14:textId="7F98B014" w:rsidR="00E05ABF" w:rsidRPr="003B4F48" w:rsidRDefault="00E05ABF" w:rsidP="003B4F48">(7)
+w14:paraId="141DD6D6" w14:textId="1185C427" w:rsidR="00E05ABF" w:rsidRPr="003B4F48" w:rsidRDefault="00E05ABF" w:rsidP="003B4F48">(8)
+w14:paraId="63162DFF" w14:textId="19E46457" w:rsidR="00E05ABF" w:rsidRPr="003B4F48" w:rsidRDefault="00E05ABF" w:rsidP="003B4F48">(9)
+w14:paraId="367F341A" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0448EC6E" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="11B0538B" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="6F084DC8" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="187C3EC3" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="6A631FEE" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="069C1FEC" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="34DE5264" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="67013AD4" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2AB8EF8A" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="51453FD7" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="1CACA5EE" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="41BAB326" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2E6A2AD3" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="43CB4D80" w14:textId="3277865B" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">1
+w14:paraId="6C8B9086" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="10DB719D" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="68643E51" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="65D15B3D" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="21D0EB2D" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="74F15028" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="69C45137" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="002FBB6F" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="38BD89D8" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="5FE8D29B" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="34696208" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="186E6731" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7705B914" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="696909BB" w14:textId="5E79858F" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Cấu tạo nguyên tử
+w14:paraId="4CCFBFB8" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2B570338" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7DA729CA" w14:textId="58FADF57" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">1. Các thành phần của nguyên tử 
+w14:paraId="3F58B18B" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="456D9C6D" w14:textId="4020A4A2" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Biết
+w14:paraId="4D3FC241" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0E5E5116" w14:textId="77369C7C" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="007D7E83">– Trình bày được thành phần của nguyên tử (hạt nhân và lớp vỏ nguyên tử; hạt nhân tạo nên bởi các hạt proton (p), neutron (n); Lớp vỏ tạo nên bởi các electron (e); điện tích, khối lượng mỗi loại hạt). (HH1.2)
+w14:paraId="535980EC" w14:textId="2817567E" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C1 
+w14:paraId="2BB3C5F6" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2ABE3B3F" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="50075AFB" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="6B489ABB" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="5B64E075" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="4803D154" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="46C3C142" w14:textId="2DB5AFBC" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Vận dụng
+w14:paraId="05EDD61B" w14:textId="42286189" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="007D7E83">–Xác định số proton, electron, neutron trong nguyên tử. (HH1.4)
+w14:paraId="103B6FE0" w14:textId="1B5528EB" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C11
+w14:paraId="533FA257" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2B345594" w14:textId="20B17729" w:rsidR="000524EA" w:rsidRPr="007D7E83" w:rsidRDefault="000524EA" w:rsidP="000524EA">C6
+w14:paraId="4B43C5C3" w14:textId="3002E307" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="670D5144" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="1949031D" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="21092A22" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="6839C46F" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0F174C37" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="77A20F79" w14:textId="0B31C320" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">2. Nguyên tố hoá học, đồng vị
+w14:paraId="536761D2" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7B49191F" w14:textId="5F8383E2" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Biết
+w14:paraId="6564A457" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="578005EC" w14:textId="3D8C4D5F" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="007D7E83">– Trình bày được khái niệm về nguyên tố hoá học, số hiệu nguyên tử, và kí hiệu nguyên tử. (HH1.2)
+w14:paraId="65700533" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="007D7E83">– Phát biểu được khái niệm đồng vị, nguyên tử khối. (HH1.1)
+w14:paraId="158466E6" w14:textId="0D4F981B" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C2
+w14:paraId="136C3237" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0D12081D" w14:textId="79CC5C8E" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C1
+w14:paraId="05D72915" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="38CF2559" w14:textId="399D3275" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2AFD3E98" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="38577515" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0FC44D0E" w14:textId="1B951342" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="118A35C7" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7E3DC617" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="22E56667" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="5596559C" w14:textId="7FD73E88" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Hiểu
+w14:paraId="035F137F" w14:textId="22C6311B" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="007D7E83">– Xác định được số đồng vị dựa vào phổ khối lượng nguyên tử
+w14:paraId="717BB019" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="311F9B6E" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="249A979D" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="59B734E8" w14:textId="41109515" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C1a
+w14:paraId="7D105897" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7723A69E" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2DBBEEB7" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0F406AD8" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Vận dụng
+w14:paraId="11A91292" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="29C78577" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="007D7E83">– Tính được nguyên tử khối trung bình (theo amu) dựa vào khối lượng nguyên tử và phần trăm số nguyên tử của các đồng vị theo phổ khối lượng được cung cấp. (HH1.4)
+w14:paraId="6657FC9F" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="58834A29" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="30C22A58" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="43FF88D3" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="3FC0DE09" w14:textId="23DF2E4A" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C4
+w14:paraId="61066B07" w14:textId="1A4FDCBB" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C1b
+w14:paraId="18CF3DB9" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="617F8FC3" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="791F745A" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="4207D83B" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="74D0D4BF" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="349C28F4" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="42794447" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="634CC988" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="75BB1676" w14:textId="413D2F4F" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">3. Cấu trúc lớp vỏ electron nguyên tử
+w14:paraId="6E020B97" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="077AAD86" w14:textId="317EF176" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Biết
+w14:paraId="37413929" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2A9DE3AA" w14:textId="56402002" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="007D7E83">– Nêu được khái niệm orbital nguyên tử (AO), mô tả được hình dạng của AO (s, p), số lượng electron trong 1 AO. (HH1.3)
+w14:paraId="56167B33" w14:textId="0E04AFF6" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="007D7E83">–Trình bày được khái niệm lớp, phân lớp electron, số lượng phân lớp trong một lớp; số AO trong một phân lớp, trong một lớp. (HH1.1)
+w14:paraId="13A9EBA8" w14:textId="684D2B15" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="007D7E83">–Nắm được đặc điểm của lớp electron ngoài cùng.(HH1.1)
+w14:paraId="03563A58" w14:textId="471A79D8" w:rsidR="008416B1" w:rsidRPr="004E770A" w:rsidRDefault="008416B1" w:rsidP="007D7E83">–Nắm được quy tắc phân bố electron vào các lớp.(HH1.1)
+w14:paraId="6F0D273E" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="40272DA4" w14:textId="0A8B64F1" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="636BCDB7" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0DBF2B95" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="1E08EA5C" w14:textId="48A00167" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C3
+w14:paraId="1F81A87E" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="753A3E22" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="6A333D05" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="328859B9" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="57137B3A" w14:textId="16DE0D68" w:rsidR="0001649D" w:rsidRPr="003B4F48" w:rsidRDefault="0001649D" w:rsidP="003B4F48">
+w14:paraId="216B3591" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="344CC744" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="15A2AD82" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="679230E1" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7719AB96" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="43AD3485" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="20278210" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="4303E7DB" w14:textId="67D97CAE" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="33CFE603" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="49B7C606" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2A34B237" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="4CBF5192" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Thông hiểu
+w14:paraId="50DA9E51" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="404A0EC6" w14:textId="276F3EBF" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="007D7E83" w:rsidP="007D7E83">– Tính được số electron tối đa trong 1 phân lớp và trong 1 lớp.
+w14:paraId="697F1F88" w14:textId="6FA6EAA3" w:rsidR="004E770A" w:rsidRPr="007D7E83" w:rsidRDefault="007D7E83" w:rsidP="004E770A">– Viết được cấu hình electron nguyên tử theo lớp, phân lớp electron và theo ô orbital khi biết số hiệu nguyên tử Z của 20 nguyên tố đầu tiên trong bảng tuần hoàn. (HH1.5)
+w14:paraId="4CE99241" w14:textId="36A91A3F" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C8
+w14:paraId="53406A79" w14:textId="3B4ED871" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="379C9D08" w14:textId="6FD9111D" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="00067404">
+w14:paraId="0E411872" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="19466906" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="35302D2D" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="1441DC36" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="3DA9B452" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="17DE7C66" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="008416B1">Vận dụng
+w14:paraId="6D443687" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2EFCB8C4" w14:textId="5FC20863" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="007D7E83">– Dựa vào đặc điểm cấu hình electron lớp ngoài cùng của nguyên tử dự đoán được tính chất hoá học cơ bản (kim loại hay phi kim) của nguyên tố tương ứng. (HH1.6)
+w14:paraId="3048F791" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7A4E50A3" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="29786AB0" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="219C620C" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="1563071B" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0D75588E" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="5E9AE946" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="68823249" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7A422C86" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0B8760AF" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="5D0CEE98" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="6F58B9E2" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="636893A2" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="6953FF7B" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="11E59F89" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="1A7A9E58" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2A7779F2" w14:textId="3126042A" w:rsidR="008416B1" w:rsidRPr="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">2
+w14:paraId="22E23CB3" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="041EF29C" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="736C9CDF" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="12DBE401" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="1C635C1D" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="4035456D" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0386EE14" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="37B0C10D" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="588DB0CE" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="448E0AF6" w14:textId="12EAE631" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Bảng tuần hoàn các nguyên tố hoá học
+w14:paraId="00DDF2EB" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="316C2CED" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="28069D58" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="4087BE19" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0C2883D2" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="3C4B51C9" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="3C63F0C4" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7F7FE84E" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="1847553D" w14:textId="68FFEB59" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">1. Cấu tạo của bảng tuần hoàn các nguyên tố hoá học
+w14:paraId="532F3077" w14:textId="74622BB3" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Biết
+w14:paraId="6C32D00F" w14:textId="3C3E61F0" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="007D7E83" w:rsidP="007D7E83">– Nêu được nguyên tắc sắp xếp các nguyên tố trong bảng tuần hoàn. (HH1.1)
+w14:paraId="569299B2" w14:textId="29AC252A" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="007D7E83" w:rsidP="007D7E83">– Nắm được cấu tạo của bảng tuần hoàn gồm: ô, chu kì, nhóm; khái niệm ô, chu kì, nhóm (nhóm A và B).  (HH1.2-1.1)
+w14:paraId="754E688B" w14:textId="64751688" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="007D7E83" w:rsidP="007D7E83">– Nắm được cách xác định số thứ tự ô nguyên tố, xác định chu kì, nhóm. (HH1.2-1.1)
+w14:paraId="6125C6E3" w14:textId="0FBEE2D3" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="007D7E83" w:rsidP="007D7E83">– Nêu được khái niệm electron hóa trị. (HH1.2-1.1)
+w14:paraId="3BE76B97" w14:textId="090F1B04" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="24CEF803" w14:textId="77777777" w:rsidR="00D51E9C" w:rsidRDefault="00D51E9C" w:rsidP="003B4F48">
+w14:paraId="23339827" w14:textId="77777777" w:rsidR="00D51E9C" w:rsidRDefault="00D51E9C" w:rsidP="003B4F48">
+w14:paraId="4AD2CF09" w14:textId="330D6049" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C4
+w14:paraId="0A8DE027" w14:textId="6FD14862" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C5
+w14:paraId="014BDF6A" w14:textId="68ED1D75" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="05E0EB4C" w14:textId="77777777" w:rsidR="004E770A" w:rsidRPr="003B4F48" w:rsidRDefault="004E770A" w:rsidP="004E770A">C1a
+w14:paraId="20AF6C32" w14:textId="77777777" w:rsidR="004E770A" w:rsidRDefault="004E770A" w:rsidP="004E770A">C1b
+w14:paraId="73BA2E71" w14:textId="57A25C01" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="004E770A" w:rsidP="004E770A">C1c 
+w14:paraId="65555344" w14:textId="77777777" w:rsidR="004E770A" w:rsidRDefault="004E770A" w:rsidP="004E770A">
+w14:paraId="571935C6" w14:textId="15683F42" w:rsidR="004E770A" w:rsidRPr="003B4F48" w:rsidRDefault="004E770A" w:rsidP="004E770A">C2a
+w14:paraId="56C69D07" w14:textId="1341C401" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="004E770A" w:rsidP="004E770A">C2b
+w14:paraId="647B745E" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0D1B13A4" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7466E103" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="271B718B" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="3C1FC40B" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C2
+w14:paraId="1C83063D" w14:textId="7B7CC413" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C3
+w14:paraId="0D932B3A" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="53C872D5" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="4BEA32F7" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="72B2028C" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7880D4A8" w14:textId="038B9A4E" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Hiểu
+w14:paraId="222C4769" w14:textId="5DE2A4EB" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="007D7E83" w:rsidP="007D7E83">– Xác định được số electron hóa trị trong nguyên tử các nguyên tố. 
+w14:paraId="1F7E7980" w14:textId="63B45248" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="007D7E83" w:rsidP="007D7E83">– Nắm được mối liên hệ giữa cấu hình electron và vị trí nguyên tố trong bảng tuần hoàn.(HH1.3)
+w14:paraId="61F153BC" w14:textId="0F0664C3" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="008416B1" w:rsidP="007D7E83">– Phân loại được nguyên tố (dựa theo cấu hình electron: nguyên tố s, p, d, f; dựa theo tính chất hoá học: kim loại, phi kim, khí hiếm). (HH1.3)
+w14:paraId="7486BA10" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="3B164D60" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="02264737" w14:textId="1A013336" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C9
+w14:paraId="07374718" w14:textId="75940740" w:rsidR="008416B1" w:rsidRDefault="004E770A" w:rsidP="003B4F48">C1d
+w14:paraId="21FF0140" w14:textId="0AB07D70" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2FC8FAD2" w14:textId="77777777" w:rsidR="004E770A" w:rsidRPr="003B4F48" w:rsidRDefault="004E770A" w:rsidP="003B4F48">
+w14:paraId="4FEBFAE1" w14:textId="6FE1D9B6" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C2c
+w14:paraId="1186BC62" w14:textId="02F54921" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="78F5C64E" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="483027CD" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="472F40D8" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="370CC1ED" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="47EF4A73" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0338E177" w14:textId="7F785F5C" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">2a
+w14:paraId="4E018AB3" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2C32C7C0" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="3325D89B" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="4DF39391" w14:textId="4A05AF5E" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Vận dụng
+w14:paraId="7864DAF6" w14:textId="742DE847" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="007D7E83" w:rsidP="007D7E83">– Xác định vị trí của nguyên tố (ô, chu kì, nhóm) khi biết cấu hình electron nguyên tử và ngược lại viết cấu hình electron, dự đoán tính chất dựa vào vị trí trong bảng tuần hoàn.(HH1.6)
+w14:paraId="1470F2AD" w14:textId="2034CF60" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="007D7E83" w:rsidP="007D7E83">– Giải thích được mối liên hệ giữa cấu hình electron và vị trí của nguyên tố trong bảng tuần hoàn, dẫn ra thí dụ minh họa.(HH1.6)
+w14:paraId="4C1A97E3" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="3341AC6B" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="0661B4D2" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="79804D40" w14:textId="61F16FFA" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C5
+w14:paraId="4A207BEC" w14:textId="49B59769" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">2b
+w14:paraId="159D04C0" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="43CBF791" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="33F0046A" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2F5AF230" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="4736CE76" w14:textId="77777777" w:rsidR="008416B1" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="02E549E6" w14:textId="4F09D4D5" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">2. Xu hướng biến đổi một số tính chất của nguyên tử các nguyên tố trong một chu kì và trong một nhóm
+w14:paraId="093851F1" w14:textId="41356929" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Biết
+w14:paraId="4D3780F9" w14:textId="30007128" w:rsidR="008416B1" w:rsidRPr="006B41FC" w:rsidRDefault="008416B1" w:rsidP="006B41FC">– Nhận xét được xu hướng biến đổi độ âm điện, bán kính nguyên tử và tính kim loại, phi kim của nguyên tử các nguyên tố trong một chu kì, trong một nhóm (nhóm A). (HH1.6)
+w14:paraId="078EE304" w14:textId="10C7C125" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C6
+w14:paraId="7FC2E20C" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="655BB516" w14:textId="4CC247BF" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C7
+w14:paraId="0A3EF020" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2B8EBB04" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="63C1B094" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="5E418DB4" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="13E623D6" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7EF97C5D" w14:textId="32428015" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="08C306F3" w14:textId="3465D94C" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="424E190B" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7CE837CA" w14:textId="25AD69DD" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">Hiểu
+w14:paraId="5AC1409F" w14:textId="1B2F69C2" w:rsidR="008416B1" w:rsidRPr="006B41FC" w:rsidRDefault="008416B1" w:rsidP="006B41FC">– Nhận xét và giải thích được xu hướng biến đổi độ âm điện, bán kính nguyên tử  và tính kim loại, phi kim của nguyên tử các nguyên tố trong một chu kì, trong một nhóm (nhóm A). (HH1.6)
+w14:paraId="1DBA9D40" w14:textId="77777777" w:rsidR="006B41FC" w:rsidRDefault="006B41FC" w:rsidP="006B41FC">
+w14:paraId="42D90919" w14:textId="5B7549D8" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="006B41FC" w:rsidP="006B41FC">   C10
+w14:paraId="6A5893BD" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="1B3EEF28" w14:textId="0678FB97" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">C2d
+w14:paraId="58699AA9" w14:textId="4CFEF999" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="1511E2BF" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="006B41FC">
+w14:paraId="504EB46A" w14:textId="6CE0B536" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">3b
+w14:paraId="019AD9CE" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="2CA275D9" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="6F8FE0A5" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="7DAA04F9" w14:textId="1F30489D" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">VD
+w14:paraId="7E8DC3C2" w14:textId="68A4A7C5" w:rsidR="008416B1" w:rsidRPr="007D7E83" w:rsidRDefault="006B41FC" w:rsidP="007D7E83">– Viết được phương trình hoá học minh hoạ. (HH1.2)
+w14:paraId="1F9BDAB2" w14:textId="11CD44F7" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="006B41FC" w:rsidP="003B4F48">C12
+w14:paraId="3921A3D3" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="5A96A23A" w14:textId="77777777" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">
+w14:paraId="5FDA7D56" w14:textId="7E381A16" w:rsidR="008416B1" w:rsidRPr="003B4F48" w:rsidRDefault="008416B1" w:rsidP="003B4F48">3a
+w14:paraId="0F4FF1E1" w14:textId="485C34E3" w:rsidR="00E05ABF" w:rsidRPr="003B4F48" w:rsidRDefault="00E05ABF" w:rsidP="003B4F48">

@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phần Mềm Tạo Đề Hóa Học 12 - THPT Bùi Thị Xuân (Mũi Né)</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-slate-50 text-slate-800 min-h-screen flex flex-col font-sans">
+
+  <!-- Header -->
+  <header class="bg-gradient-to-r from-blue-800 via-indigo-700 to-teal-700 text-white shadow-lg sticky top-0 z-50">
+    <div class="max-w-7xl mx-auto px-4 py-3 flex flex-wrap justify-between items-center gap-4">
+      <div class="flex items-center space-x-3">
+        <div class="w-11 h-11 rounded-xl bg-white/10 backdrop-blur border border-white/20 flex items-center justify-center text-yellow-300 text-2xl shadow-inner">
+          <i class="fa-solid fa-flask-vial"></i>
+        </div>
+        <div>
+          <h1 id="headerMainTitle" class="text-xl font-bold tracking-tight">HỆ THỐNG TẠO ĐỀ THI HÓA HỌC 10 - 11 - 12</h1>
+          <p class="text-xs text-blue-100 flex items-center gap-2">
+            <span><i class="fa-solid fa-school"></i> THPT Bùi Thị Xuân - Mũi Né</span>
+            <span>•</span>
+            <span id="headerGradeBadge">Khối 10, Khối 11 & Khối 12 Chuẩn GDPT 2018</span>
+          </p>
+        </div>
+      </div>
+
+      <!-- Grade Switcher Pills -->
+      <div class="flex items-center bg-black/30 p-1 rounded-xl border border-white/20 shadow-inner">
+        <button class="grade-pill-btn active px-4 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 text-blue-900 bg-white shadow-md" data-grade="10">
+          <i class="fa-solid fa-atom text-cyan-600"></i> HÓA 10
+        </button>
+        <button class="grade-pill-btn px-4 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 text-white/80 hover:text-white" data-grade="11">
+          <i class="fa-solid fa-vial text-amber-300"></i> HÓA 11
+        </button>
+        <button class="grade-pill-btn px-4 py-1.5 rounded-lg text-xs font-bold transition flex items-center gap-1.5 text-white/80 hover:text-white" data-grade="12">
+          <i class="fa-solid fa-flask text-emerald-300"></i> HÓA 12
+        </button>
+      </div>
+
+      <!-- Term Selector (Giữa kì / Cuối kì) -->
+      <div class="flex items-center bg-black/30 px-3 py-1.5 rounded-xl border border-white/20 shadow-inner">
+        <span class="text-xs text-white/90 font-semibold mr-2 flex items-center gap-1.5">
+          <i class="fa-solid fa-calendar-check text-amber-300"></i> Kì thi:
+        </span>
+        <select id="selectExamTerm" class="bg-blue-950 text-amber-300 text-xs font-bold px-2.5 py-1 rounded-lg border border-white/20 focus:outline-none focus:ring-1 focus:ring-amber-400 cursor-pointer">
+          <option value="giuaki" selected>GIỮA KÌ 1</option>
+          <option value="cuoiki">CUỐI KÌ 1</option>
+        </select>
+      </div>
+
+      <!-- Quick Actions -->
+      <div class="flex items-center space-x-2">
+        <button id="btnHeaderExportWord" class="px-3.5 py-2 bg-emerald-400 hover:bg-emerald-300 text-slate-950 rounded-lg font-bold text-sm shadow-md flex items-center gap-2 transition transform active:scale-95">
+          <i class="fa-solid fa-file-word text-emerald-950"></i> Xuất File Word (.doc)
+        </button>
+        <button id="btnQuickGen" class="px-3.5 py-2 bg-amber-400 hover:bg-amber-300 text-slate-900 rounded-lg font-semibold text-sm shadow-md flex items-center gap-2 transition transform active:scale-95">
+          <i class="fa-solid fa-bolt"></i> Tạo Đề Mới
+        </button>
+        <button id="btnQuickSimilar" class="px-3.5 py-2 bg-white/15 hover:bg-white/25 text-white border border-white/30 rounded-lg font-semibold text-sm shadow-sm flex items-center gap-2 transition">
+          <i class="fa-solid fa-shuffle"></i> Sinh Đề Tương Tự
+        </button>
+      </div>
+    </div>
+
+    <!-- Navigation Tabs -->
+    <div class="max-w-7xl mx-auto px-4 border-t border-white/10 flex space-x-1 overflow-x-auto text-sm font-medium">
+      <button class="nav-tab active" data-tab="tab-generator">
+        <i class="fa-solid fa-wand-magic-sparkles mr-1.5"></i> Tạo Đề Thi
+      </button>
+      <button class="nav-tab" data-tab="tab-similar">
+        <i class="fa-solid fa-arrows-split-up-and-left mr-1.5"></i> Đề Tương Tự & Thay Số
+      </button>
+      <button class="nav-tab" data-tab="tab-bank">
+        <i class="fa-solid fa-book-bookmark mr-1.5"></i> Ngân Hàng Đề Cương
+      </button>
+      <button class="nav-tab" data-tab="tab-matrix">
+        <i class="fa-solid fa-table-cells mr-1.5"></i> Ma Trận & Bản Đặc Tả
+      </button>
+      <button class="nav-tab" data-tab="tab-print">
+        <i class="fa-solid fa-print mr-1.5"></i> Bản In / Xuất Word
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Content Container -->
+  <main class="max-w-7xl mx-auto px-4 py-6 flex-1 w-full">
+
+    <!-- Notification Banner -->
+    <div class="bg-blue-50 border-l-4 border-blue-600 p-4 mb-6 rounded-r-lg shadow-sm flex items-start justify-between">
+      <div class="flex items-start">
+        <i class="fa-solid fa-circle-check text-blue-600 text-xl mt-0.5 mr-3"></i>
+        <div>
+          <h2 class="font-bold text-blue-900 text-sm">Dữ liệu nguồn đã sẵn sàng 100% từ hồ sơ giáo viên gửi:</h2>
+          <p class="text-xs text-blue-800 mt-1 leading-relaxed">
+            • <strong>Ngân hàng đề cương Hóa 12</strong>: 100% câu hỏi từ Đề cương Giữa kì 1 (Ester - Lipid, Xà phòng, Carbohydrate, Amine, Amino acid).<br>
+            • <strong>Nguyên tắc sinh đề tương tự</strong>: Giữ nguyên 100% các câu hỏi <strong>Lý thuyết</strong>; Tự động <strong>Thay số & tính lại đáp án</strong> cho tất cả các câu bài tập tính toán.
+          </p>
+        </div>
+      </div>
+      <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold bg-blue-200 text-blue-800">
+        GDPT 2018
+      </span>
+    </div>
+
+    <!-- ============================================================== -->
+    <!-- TAB 1: TẠO ĐỀ THI (GENERATOR) -->
+    <!-- ============================================================== -->
+    <section id="tab-generator" class="tab-content active space-y-6">
+      <!-- Control Panel -->
+      <div class="bg-white p-5 rounded-xl border border-slate-200 shadow-sm">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-4">
+          <div>
+            <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wider mb-1">Mẫu Ma Trận & Đặc Tả</label>
+            <select id="selectMatrixTemplate" class="w-full text-sm font-medium border border-slate-300 rounded-lg p-2.5 focus:ring-2 focus:ring-blue-500 focus:outline-none bg-slate-50">
+              <option value="gk1_official_btx">Ma trận & Đặc tả Giữa Kì 1 (Bùi Thị Xuân - Mũi Né)</option>
+              <option value="ck2_pdf_exact">Ma trận & Đặc tả Cuối Kì 2 (Dự phòng)</option>
+            </select>
+          </div>
+          <div>
+            <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wider mb-1">Mã Đề Ban Đầu</label>
+            <input type="text" id="inputExamCode" value="101" class="w-full text-sm border border-slate-300 rounded-lg p-2.5 focus:ring-2 focus:ring-blue-500 bg-slate-50 font-bold text-center">
+            <!-- Nút chọn nhanh mã đề trong bảng điều khiển -->
+            <div class="flex items-center gap-1.5 mt-2">
+              <span class="text-[11px] text-slate-500 font-semibold">Chọn nhanh:</span>
+              <button type="button" class="btn-quick-code px-2.5 py-0.5 bg-blue-100 hover:bg-blue-200 text-blue-800 rounded font-bold text-xs transition active:scale-95" data-code="101">101</button>
+              <button type="button" class="btn-quick-code px-2.5 py-0.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded font-bold text-xs transition active:scale-95" data-code="102">102</button>
+              <button type="button" class="btn-quick-code px-2.5 py-0.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded font-bold text-xs transition active:scale-95" data-code="103">103</button>
+              <button type="button" class="btn-quick-code px-2.5 py-0.5 bg-slate-100 hover:bg-slate-200 text-slate-700 rounded font-bold text-xs transition active:scale-95" data-code="104">104</button>
+            </div>
+          </div>
+          <div>
+            <label class="block text-xs font-semibold text-slate-500 uppercase tracking-wider mb-1">Thời Gian Làm Bài</label>
+            <input type="number" id="inputDuration" value="45" class="w-full text-sm border border-slate-300 rounded-lg p-2.5 focus:ring-2 focus:ring-blue-500 bg-slate-50 text-center">
+          </div>
+          <div class="flex items-end gap-2">
+            <button id="btnCreateExam" class="w-full py-2.5 bg-blue-600 hover:bg-blue-700 text-white font-semibold text-sm rounded-lg shadow transition flex items-center justify-center gap-2">
+              <i class="fa-solid fa-play"></i> Tạo Đề Thi Mới
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Danh Sách 5 Bộ Đề Gốc Kèm Các Đề Tương Tự Thay Số -->
+      <div class="bg-gradient-to-r from-slate-900 via-indigo-950 to-blue-950 text-white p-4 rounded-xl border border-indigo-900 shadow-md">
+        <div class="flex flex-wrap justify-between items-center gap-3 mb-3">
+          <div class="flex items-center space-x-2">
+            <span class="w-7 h-7 rounded-lg bg-amber-400 text-slate-950 flex items-center justify-center font-bold text-xs shadow">
+              <i class="fa-solid fa-folder-tree"></i>
+            </span>
+            <div>
+              <h3 class="text-sm font-bold uppercase tracking-wide text-amber-300">
+                Danh Sách Các Bộ Đề Gốc (Kèm Các Đề Tương Tự Thay Số Đi Kèm)
+              </h3>
+              <p class="text-[11px] text-blue-200">
+                Mỗi bộ đề gồm 1 Đề gốc (chuẩn đề cương và ma trận) và 3 Đề tương tự (giữ nguyên lý thuyết, tự động thay số bài toán).
+              </p>
+            </div>
+          </div>
+          <div class="flex items-center gap-2">
+            <button id="btnReload5Suites" class="px-3 py-1.5 bg-white/10 hover:bg-white/20 text-white rounded-md text-xs font-semibold border border-white/20 transition flex items-center gap-1.5">
+              <i class="fa-solid fa-arrows-rotate"></i> Tạo Mới Lại Các Bộ Đề
+            </button>
+            <button id="btnDownloadAll5WithSpecTags" class="px-3.5 py-1.5 bg-purple-600 hover:bg-purple-500 text-white rounded-md text-xs font-bold shadow flex items-center gap-1.5 transition active:scale-95">
+              <i class="fa-solid fa-tags text-amber-300"></i> Tải Các Đề Gốc Kèm Ma Trận, Đặc Tả (.doc)
+            </button>
+            <button id="btnDownloadAll20Codes" class="px-3.5 py-1.5 bg-emerald-500 hover:bg-emerald-400 text-slate-950 rounded-md text-xs font-bold shadow flex items-center gap-1.5 transition active:scale-95">
+              <i class="fa-solid fa-cloud-arrow-down"></i> Tải Trọn Bộ Tất Cả Đề Thi (File Word)
+            </button>
+          </div>
+        </div>
+
+        <!-- Các Nút Chọn Bộ Đề -->
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-2.5" id="suiteButtonsContainer">
+          <button type="button" class="suite-btn active p-2.5 rounded-lg border-2 border-amber-400 bg-amber-400/20 text-left transition hover:border-amber-300" data-suite="0">
+            <div class="flex justify-between items-center mb-1">
+              <span class="font-bold text-xs text-amber-300">BỘ ĐỀ SỐ 1</span>
+              <span class="text-[10px] px-1.5 py-0.2 rounded bg-amber-400 text-slate-950 font-bold">4 Mã</span>
+            </div>
+            <p class="text-[11px] text-slate-300 font-mono">Mã 101 - 104</p>
+          </button>
+          <button type="button" class="suite-btn p-2.5 rounded-lg border border-slate-700 bg-slate-800/80 text-left transition hover:border-indigo-400" data-suite="1">
+            <div class="flex justify-between items-center mb-1">
+              <span class="font-bold text-xs text-slate-200">BỘ ĐỀ SỐ 2</span>
+              <span class="text-[10px] px-1.5 py-0.2 rounded bg-indigo-600 text-white font-bold">4 Mã</span>
+            </div>
+            <p class="text-[11px] text-slate-400 font-mono">Mã 201 - 204</p>
+          </button>
+          <button type="button" class="suite-btn p-2.5 rounded-lg border border-slate-700 bg-slate-800/80 text-left transition hover:border-indigo-400" data-suite="2">
+            <div class="flex justify-between items-center mb-1">
+              <span class="font-bold text-xs text-slate-200">BỘ ĐỀ SỐ 3</span>
+              <span class="text-[10px] px-1.5 py-0.2 rounded bg-indigo-600 text-white font-bold">4 Mã</span>
+            </div>
+            <p class="text-[11px] text-slate-400 font-mono">Mã 301 - 304</p>
+          </button>
+          <button type="button" class="suite-btn p-2.5 rounded-lg border border-slate-700 bg-slate-800/80 text-left transition hover:border-indigo-400" data-suite="3">
+            <div class="flex justify-between items-center mb-1">
+              <span class="font-bold text-xs text-slate-200">BỘ ĐỀ SỐ 4</span>
+              <span class="text-[10px] px-1.5 py-0.2 rounded bg-indigo-600 text-white font-bold">4 Mã</span>
+            </div>
+            <p class="text-[11px] text-slate-400 font-mono">Mã 401 - 404</p>
+          </button>
+          <button type="button" class="suite-btn p-2.5 rounded-lg border border-slate-700 bg-slate-800/80 text-left transition hover:border-indigo-400" data-suite="4">
+            <div class="flex justify-between items-center mb-1">
+              <span class="font-bold text-xs text-slate-200">BỘ ĐỀ SỐ 5</span>
+              <span class="text-[10px] px-1.5 py-0.2 rounded bg-indigo-600 text-white font-bold">4 Mã</span>
+            </div>
+            <p class="text-[11px] text-slate-400 font-mono">Mã 501 - 504</p>
+          </button>
+        </div>
+      </div>
+
+      <!-- Exam Result Viewer -->
+      <div id="examViewerCard" class="bg-white rounded-xl border border-slate-200 shadow-sm overflow-hidden">
+        <!-- Card Header Toolbar -->
+        <div class="bg-slate-100 px-6 py-4 border-b border-slate-200 flex flex-wrap justify-between items-center gap-3">
+          <div class="flex items-center space-x-3">
+            <span class="px-3 py-1 bg-blue-700 text-white rounded-md text-xs font-bold tracking-wide">
+              MÃ ĐỀ: <span id="displayExamCode">101</span>
+            </span>
+            <h3 id="displayExamTitle" class="font-bold text-slate-800 text-base">ĐỀ KIỂM TRA HÓA HỌC 10</h3>
+          </div>
+          <div class="flex items-center flex-wrap gap-2">
+            <!-- Checkbox toggle hiển thị Đơn vị kiến thức & Mã chỉ báo -->
+            <label class="flex items-center gap-1.5 text-xs font-bold text-purple-900 bg-purple-50 hover:bg-purple-100 px-3 py-1.5 rounded-md border border-purple-300 shadow-sm cursor-pointer transition">
+              <input type="checkbox" id="chkShowSpecTags" class="rounded text-purple-600 focus:ring-purple-500 w-3.5 h-3.5 cursor-pointer">
+              <span><i class="fa-solid fa-tags text-purple-600"></i> Hiện Đơn vị KT & Mã chỉ báo</span>
+            </label>
+
+            <!-- Nút xuất Word Kèm Đặc Tả & Mã Chỉ Báo (TÍNH NĂNG MỚI) -->
+            <button id="btnExportWithSpecTags" class="px-3.5 py-1.5 bg-purple-700 hover:bg-purple-800 text-white rounded-md text-xs font-bold transition flex items-center gap-1.5 shadow">
+              <i class="fa-solid fa-file-circle-check text-amber-300"></i> Xuất Đề Kèm Ma Trận, Đặc Tả & Mã Chỉ Báo (.doc)
+            </button>
+
+            <!-- Nút xuất file Word nổi bật -->
+            <button id="btnExportFullDossier" class="px-3.5 py-1.5 bg-indigo-700 hover:bg-indigo-800 text-white rounded-md text-xs font-bold transition flex items-center gap-1.5 shadow">
+              <i class="fa-solid fa-file-invoice text-amber-300"></i> Xuất Hồ Sơ Đầy Đủ (Ma Trận + Đặc Tả + Đề + Đáp Án)
+            </button>
+            <button id="btnExportMatrixSpecWord" class="px-3 py-1.5 bg-teal-700 hover:bg-teal-800 text-white rounded-md text-xs font-bold transition flex items-center gap-1.5 shadow">
+              <i class="fa-solid fa-table-cells text-teal-200"></i> Xuất Riêng Ma Trận & Đặc Tả (.doc)
+            </button>
+            <button id="btnExportWordStudent" class="px-3.5 py-1.5 bg-emerald-700 hover:bg-emerald-800 text-white rounded-md text-xs font-bold transition flex items-center gap-1.5 shadow">
+              <i class="fa-solid fa-file-word text-emerald-200"></i> Xuất Word (Đề Học Sinh)
+            </button>
+            <button id="btnExportWordTeacher" class="px-3.5 py-1.5 bg-blue-700 hover:bg-blue-800 text-white rounded-md text-xs font-bold transition flex items-center gap-1.5 shadow">
+              <i class="fa-solid fa-file-word text-blue-200"></i> Xuất Word (Kèm Đáp Án)
+            </button>
+            <button id="btnToggleSolutions" class="px-3 py-1.5 bg-slate-200 hover:bg-slate-300 text-slate-800 rounded-md text-xs font-semibold transition flex items-center gap-1.5">
+              <i class="fa-solid fa-key"></i> Hiện / Ẩn Đáp Án Trên Web
+            </button>
+            <button id="btnGenSimilarCurrent" class="px-3 py-1.5 bg-purple-600 hover:bg-purple-700 text-white rounded-md text-xs font-semibold transition flex items-center gap-1.5">
+              <i class="fa-solid fa-shuffle"></i> Sinh Đề Tương Tự
+            </button>
+            <button onclick="switchTab('tab-print')" class="px-3 py-1.5 bg-slate-700 hover:bg-slate-800 text-white rounded-md text-xs font-semibold transition flex items-center gap-1.5">
+              <i class="fa-solid fa-print"></i> Xem Bản In / PDF
+            </button>
+          </div>
+        </div>
+
+        <!-- Thanh Chọn Nhanh Mã Đề 101, 102, 103, 104 -->
+        <div class="bg-indigo-900 text-white px-6 py-2.5 flex flex-wrap justify-between items-center gap-3 border-b border-indigo-950 shadow-inner">
+          <div class="flex items-center space-x-2 flex-wrap">
+            <span class="text-xs font-bold uppercase tracking-wider text-amber-300 flex items-center gap-1.5 mr-1">
+              <i class="fa-solid fa-tags"></i> Chọn Nhanh Mã Đề:
+            </span>
+            <div class="inline-flex rounded-lg shadow-sm" role="group">
+              <button type="button" class="code-tab-btn active px-4 py-1 text-xs font-extrabold rounded-l-lg border border-indigo-600 bg-amber-400 text-slate-900 transition flex items-center gap-1" data-code="101">
+                <span>MÃ 101</span>
+                <span class="text-[10px] font-normal opacity-80">(Gốc)</span>
+              </button>
+              <button type="button" class="code-tab-btn px-4 py-1 text-xs font-extrabold border-t border-b border-indigo-600 bg-indigo-800 hover:bg-indigo-700 text-white transition flex items-center gap-1" data-code="102">
+                <span>MÃ 102</span>
+                <span class="text-[10px] font-normal opacity-80">(Thay số)</span>
+              </button>
+              <button type="button" class="code-tab-btn px-4 py-1 text-xs font-extrabold border-t border-b border-indigo-600 bg-indigo-800 hover:bg-indigo-700 text-white transition flex items-center gap-1" data-code="103">
+                <span>MÃ 103</span>
+                <span class="text-[10px] font-normal opacity-80">(Thay số)</span>
+              </button>
+              <button type="button" class="code-tab-btn px-4 py-1 text-xs font-extrabold rounded-r-lg border border-indigo-600 bg-indigo-800 hover:bg-indigo-700 text-white transition flex items-center gap-1" data-code="104">
+                <span>MÃ 104</span>
+                <span class="text-[10px] font-normal opacity-80">(Thay số)</span>
+              </button>
+            </div>
+            <span id="codeVariantInfo" class="text-xs text-indigo-200 ml-2 italic">
+              Đang xem Đề gốc 101 (Lý thuyết & Bài tập gốc từ Đề Cương)
+            </span>
+          </div>
+
+          <div class="flex items-center space-x-2">
+            <button id="btnDownloadAll4Codes" class="px-3.5 py-1 bg-emerald-500 hover:bg-emerald-400 text-slate-950 rounded-md font-bold text-xs shadow flex items-center gap-1.5 transition active:scale-95">
+              <i class="fa-solid fa-file-zipper"></i> Tải Trọn Bộ Cả 4 File Word (101 - 104)
+            </button>
+          </div>
+        </div>
+
+        <!-- Exam Paper Content -->
+        <div id="examPaper" class="p-6 md:p-8 space-y-8">
+          <!-- Dynamic exam content injected by JavaScript -->
+          <div class="text-center py-12 text-slate-400">
+            <i class="fa-solid fa-spinner fa-spin text-3xl mb-3 text-blue-500"></i>
+            <p>Đang chuẩn bị đề thi...</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================== -->
+    <!-- TAB 2: ĐỀ TƯƠNG TỰ & THAY SỐ (SIMILAR EXAMS) -->
+    <!-- ============================================================== -->
+    <section id="tab-similar" class="tab-content space-y-6">
+      <div class="bg-gradient-to-r from-purple-800 to-indigo-800 text-white p-6 rounded-xl shadow-md">
+        <div class="flex flex-wrap justify-between items-center gap-4">
+          <div>
+            <h2 class="text-xl font-bold flex items-center gap-2">
+              <i class="fa-solid fa-arrows-split-up-and-left text-yellow-300"></i>
+              Công Cụ Sinh Đề Tương Tự (Đề Hoán Vị & Thay Số)
+            </h2>
+            <p class="text-sm text-purple-100 mt-1">
+              Đáp ứng trọn vẹn yêu cầu: <strong>Lý thuyết giữ nguyên 100%</strong> như trong đề cương; <strong>Bài tập tính toán tự động thay số</strong>, sinh lời giải chi tiết và đáp án mới chuẩn xác.
+            </p>
+          </div>
+          <div class="flex flex-wrap gap-2">
+            <button id="btnGen4Codes" class="px-4 py-2 bg-amber-400 hover:bg-amber-300 text-slate-900 rounded-lg font-bold text-xs shadow transition flex items-center gap-1.5">
+              <i class="fa-solid fa-layer-group"></i> Sinh Trọn Bộ 4 Mã Đề (101 - 104)
+            </button>
+            <button id="btnExportSimilarWord" class="px-4 py-2 bg-emerald-500 hover:bg-emerald-400 text-slate-950 rounded-lg font-bold text-xs shadow transition flex items-center gap-1.5">
+              <i class="fa-solid fa-file-word"></i> Xuất Đề Tương Tự Ra Word
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Side-by-Side Comparison Container -->
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        <!-- Left: Đề Gốc -->
+        <div class="bg-white rounded-xl border border-slate-200 shadow-sm p-5 space-y-4">
+          <div class="flex justify-between items-center border-b pb-3">
+            <div class="flex items-center gap-2">
+              <span class="px-2.5 py-1 bg-blue-100 text-blue-800 font-bold rounded text-xs">MÃ 101</span>
+              <h3 class="font-bold text-slate-800 text-sm">ĐỀ GỐC (NGUYÊN BẢN ĐỀ CƯƠNG)</h3>
+            </div>
+            <span class="text-xs text-slate-500 font-medium">Bản cơ sở</span>
+          </div>
+          <div id="compareOriginalBox" class="space-y-4 max-h-[750px] overflow-y-auto pr-2 text-sm text-slate-700">
+            <!-- Injected by JS -->
+          </div>
+        </div>
+
+        <!-- Right: Đề Tương Tự (Đã Thay Số) -->
+        <div class="bg-white rounded-xl border border-purple-200 shadow-sm p-5 space-y-4">
+          <div class="flex justify-between items-center border-b pb-3">
+            <div class="flex items-center gap-2">
+              <span class="px-2.5 py-1 bg-purple-100 text-purple-800 font-bold rounded text-xs">MÃ <span id="similarCodeTag">102</span></span>
+              <h3 class="font-bold text-purple-900 text-sm">ĐỀ TƯƠNG TỰ (ĐÃ THAY SỐ BÀI TẬP)</h3>
+            </div>
+            <button id="btnRefreshSimilar" class="text-xs bg-purple-600 hover:bg-purple-700 text-white px-2.5 py-1 rounded font-medium flex items-center gap-1">
+              <i class="fa-solid fa-rotate"></i> Đổi số liệu khác
+            </button>
+          </div>
+          <div id="compareSimilarBox" class="space-y-4 max-h-[750px] overflow-y-auto pr-2 text-sm text-slate-700">
+            <!-- Injected by JS -->
+          </div>
+        </div>
+      </div>
+
+      <!-- Multiple Exam Codes Matrix Box -->
+      <div id="multiCodeBox" class="bg-white rounded-xl border border-slate-200 shadow-sm p-6 hidden">
+        <h3 class="font-bold text-slate-800 text-base mb-4 flex items-center gap-2">
+          <i class="fa-solid fa-table-list text-blue-600"></i> Bảng Đáp Án Trắc Nghiệm Tổng Hợp 4 Mã Đề
+        </h3>
+        <div id="multiCodeAnswerTable" class="overflow-x-auto text-sm">
+          <!-- Injected by JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================== -->
+    <!-- TAB 3: NGÂN HÀNG ĐỀ CƯƠNG (QUESTION BANK) -->
+    <!-- ============================================================== -->
+    <section id="tab-bank" class="tab-content space-y-6">
+      <!-- Filter Toolbar -->
+      <div class="bg-white p-5 rounded-xl border border-slate-200 shadow-sm space-y-4">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-3">
+          <div>
+            <label class="block text-xs font-semibold text-slate-500 mb-1">Chủ đề / Bài học</label>
+            <select id="bankFilterLesson" class="w-full text-xs font-medium border border-slate-300 rounded-md p-2 bg-slate-50">
+              <option value="">-- Tất cả bài học --</option>
+              <option value="b1_ester_lipid">Bài 1: Ester - Lipid</option>
+              <option value="b2_xaphong">Bài 2: Xà phòng & Chất giặt rửa</option>
+              <option value="b3_carb_glu_fru">Bài 3: Glucose - Fructose</option>
+              <option value="b4_sac_mal">Bài 4: Saccharose & Maltose</option>
+              <option value="b5_tinhbot_cel">Bài 5: Tinh bột & Cellulose</option>
+              <option value="b6_amine">Bài 6: Amine</option>
+              <option value="b7_aminoacid_peptide">Bài 7: Amino acid - Peptide</option>
+            </select>
+          </div>
+          <div>
+            <label class="block text-xs font-semibold text-slate-500 mb-1">Phần / Cấu trúc</label>
+            <select id="bankFilterPart" class="w-full text-xs font-medium border border-slate-300 rounded-md p-2 bg-slate-50">
+              <option value="">-- Tất cả dạng câu --</option>
+              <option value="part1">Phần I: TN Nhiều lựa chọn</option>
+              <option value="part2">Phần II: TN Đúng / Sai</option>
+              <option value="part3">Phần III: Trả lời ngắn</option>
+              <option value="part4">Phần IV: Tự luận</option>
+            </select>
+          </div>
+          <div>
+            <label class="block text-xs font-semibold text-slate-500 mb-1">Phân loại câu hỏi</label>
+            <select id="bankFilterCategory" class="w-full text-xs font-medium border border-slate-300 rounded-md p-2 bg-slate-50">
+              <option value="">-- Tất cả phân loại --</option>
+              <option value="lythuyet">Lý thuyết (Giữ nguyên)</option>
+              <option value="tinh_toan">Bài tập tính toán (Hỗ trợ thay số)</option>
+            </select>
+          </div>
+          <div>
+            <label class="block text-xs font-semibold text-slate-500 mb-1">Tìm kiếm từ khóa</label>
+            <div class="relative">
+              <input type="text" id="bankSearchInput" placeholder="Nhập từ khóa tìm câu hỏi..." class="w-full text-xs border border-slate-300 rounded-md p-2 pl-8 bg-slate-50">
+              <i class="fa-solid fa-search absolute left-2.5 top-2.5 text-slate-400 text-xs"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Questions List Container -->
+      <div class="flex justify-between items-center text-xs text-slate-500 px-1">
+        <span>Hiển thị <strong id="bankCount" class="text-blue-700">0</strong> câu hỏi trong đề cương</span>
+        <span class="flex items-center gap-3">
+          <span class="inline-flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-blue-500"></span> Lý thuyết</span>
+          <span class="inline-flex items-center gap-1"><span class="w-2.5 h-2.5 rounded-full bg-amber-500"></span> Tính toán thay số</span>
+        </span>
+      </div>
+
+      <div id="bankListContainer" class="space-y-4">
+        <!-- Injected by JS -->
+      </div>
+    </section>
+
+    <!-- ============================================================== -->
+    <!-- TAB 4: MA TRẬN & BẢN ĐẶC TẢ CHI TIẾT -->
+    <!-- ============================================================== -->
+    <section id="tab-matrix" class="tab-content space-y-6">
+      <div class="bg-white p-6 rounded-xl border border-slate-200 shadow-sm space-y-6">
+        <div class="border-b pb-4 flex justify-between items-center flex-wrap gap-3">
+          <div>
+            <h2 class="text-lg font-bold text-slate-800" id="matrixTabMainHeading">KHUNG MA TRẬN & BẢNG ĐẶC TẢ ĐỀ KIỂM TRA MÔN HÓA HỌC 10</h2>
+            <p class="text-xs text-slate-500">Mỗi đề thi được gắn liền trực tiếp với Ma trận và Bản đặc tả kĩ thuật tương ứng theo chuẩn GDPT 2018</p>
+          </div>
+          <div class="flex flex-wrap gap-2">
+            <button id="btnExportMatrixSpecDocxTab4" class="px-3.5 py-1.5 bg-teal-700 hover:bg-teal-800 text-white rounded-md text-xs font-bold flex items-center gap-1.5 shadow">
+              <i class="fa-solid fa-file-word"></i> Xuất Ma Trận & Đặc Tả Này (.doc)
+            </button>
+            <button id="btnExportFullDossierTab4" class="px-3.5 py-1.5 bg-indigo-700 hover:bg-indigo-800 text-white rounded-md text-xs font-bold flex items-center gap-1.5 shadow">
+              <i class="fa-solid fa-file-invoice text-amber-300"></i> Xuất Hồ Sơ Đầy Đủ (.doc)
+            </button>
+            <button onclick="renderMatrixGK1()" class="px-3 py-1.5 bg-emerald-600 hover:bg-emerald-700 text-white rounded-md text-xs font-semibold flex items-center gap-1.5">
+              <i class="fa-solid fa-list-check"></i> Xem Của Đề Đang Chọn
+            </button>
+            <button onclick="renderMatrixPDF()" class="px-3 py-1.5 bg-slate-600 hover:bg-slate-700 text-white rounded-md text-xs font-semibold flex items-center gap-1.5">
+              <i class="fa-solid fa-file-pdf"></i> Xem Bản Cuối Kì 2 (PDF Gốc)
+            </button>
+          </div>
+        </div>
+
+        <!-- Thanh chọn nhanh Ma trận & Đặc tả theo 5 Bộ Đề Gốc -->
+        <div class="bg-slate-100 p-3 rounded-lg border border-slate-200 flex flex-wrap items-center justify-between gap-3">
+          <div class="flex items-center gap-2">
+            <span class="text-xs font-bold text-slate-700 uppercase"><i class="fa-solid fa-layer-group text-blue-600"></i> Xem Ma trận & Đặc tả theo đề:</span>
+            <div class="inline-flex rounded-md shadow-sm" role="group" id="matrixSuiteButtonGroup">
+              <button type="button" class="matrix-suite-btn active px-3 py-1 text-xs font-bold rounded-l-md border border-slate-300 bg-blue-600 text-white" data-suite="0">Mã 101</button>
+              <button type="button" class="matrix-suite-btn px-3 py-1 text-xs font-bold border-t border-b border-r border-slate-300 bg-white hover:bg-slate-50 text-slate-700" data-suite="1">Mã 201</button>
+              <button type="button" class="matrix-suite-btn px-3 py-1 text-xs font-bold border-t border-b border-r border-slate-300 bg-white hover:bg-slate-50 text-slate-700" data-suite="2">Mã 301</button>
+              <button type="button" class="matrix-suite-btn px-3 py-1 text-xs font-bold border-t border-b border-r border-slate-300 bg-white hover:bg-slate-50 text-slate-700" data-suite="3">Mã 401</button>
+              <button type="button" class="matrix-suite-btn px-3 py-1 text-xs font-bold rounded-r-md border-t border-b border-r border-slate-300 bg-white hover:bg-slate-50 text-slate-700" data-suite="4">Mã 501</button>
+            </div>
+          </div>
+          <span id="matrixActiveCodeBadge" class="text-xs bg-amber-100 text-amber-900 border border-amber-300 px-2.5 py-0.5 rounded font-semibold">
+            Đang hiển thị: Ma trận & Bản đặc tả chi tiết của Mã đề 101
+          </span>
+        </div>
+
+        <div id="matrixDisplayArea" class="overflow-x-auto text-xs">
+          <!-- Injected by JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================== -->
+    <!-- TAB 5: BẢN IN & XUẤT FILE WORD (PRINT & DOCX) -->
+    <!-- ============================================================== -->
+    <section id="tab-print" class="tab-content space-y-6">
+      <div class="bg-white p-5 rounded-xl border border-slate-200 shadow-sm flex flex-wrap justify-between items-center gap-3">
+        <div>
+          <h2 class="text-base font-bold text-slate-800">Bản In Chuẩn Bộ GD & Tải File Word</h2>
+          <p class="text-xs text-slate-500">Định dạng chuẩn trang thi A4, bao gồm khung phách, phần thi I, II, III, IV và đáp án biểu điểm.</p>
+        </div>
+        <div class="flex items-center flex-wrap gap-2">
+          <label class="inline-flex items-center text-xs text-slate-700 cursor-pointer bg-slate-50 px-3 py-2 rounded-lg border border-slate-300 hover:bg-slate-100 mr-1">
+            <input type="checkbox" id="chkIncludeMatrixInPrint" class="rounded text-blue-600 mr-1.5 focus:ring-0">
+            <span>Kèm Ma trận & Bản đặc tả</span>
+          </label>
+          <button onclick="window.print()" class="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-xs font-bold shadow flex items-center gap-2">
+            <i class="fa-solid fa-print"></i> In Đề / Lưu PDF (Ctrl+P)
+          </button>
+          <button id="btnExportWithSpecTagsTab5" class="px-4 py-2 bg-purple-700 hover:bg-purple-800 text-white rounded-lg text-xs font-bold shadow flex items-center gap-2">
+            <i class="fa-solid fa-file-circle-check text-amber-300"></i> Tải Đề Kèm Ma Trận, Đặc Tả & Mã Chỉ Báo (.doc)
+          </button>
+          <button id="btnPrintExportFullDossier" class="px-4 py-2 bg-indigo-700 hover:bg-indigo-800 text-white rounded-lg text-xs font-bold shadow flex items-center gap-2">
+            <i class="fa-solid fa-file-invoice text-amber-300"></i> Tải Hồ Sơ Đầy Đủ (.doc)
+          </button>
+          <button id="btnExportWord" class="px-4 py-2 bg-emerald-700 hover:bg-emerald-800 text-white rounded-lg text-xs font-bold shadow flex items-center gap-2">
+            <i class="fa-solid fa-file-word"></i> Tải File Đề Word (.doc)
+          </button>
+        </div>
+      </div>
+
+      <!-- Printable Exam Document -->
+      <div id="printDocument" class="bg-white p-8 md:p-12 rounded-xl border border-slate-300 shadow max-w-4xl mx-auto text-black font-serif text-[13pt] leading-normal print:p-0 print:border-0 print:shadow-none">
+        <!-- Header standard -->
+        <div class="flex justify-between items-start border-b-2 border-black pb-4 mb-6">
+          <div class="text-center w-1/2 pr-2">
+            <p class="uppercase font-bold text-[11pt]">SỞ GIÁO DỤC VÀ ĐÀO TẠO</p>
+            <p class="uppercase font-bold text-[11pt]">TRƯỜNG THPT BÙI THỊ XUÂN – MŨI NÉ</p>
+            <div class="w-24 h-0.5 bg-black mx-auto my-1"></div>
+            <p class="italic text-[10pt]">Tổ: Hóa - Sinh - KTNN</p>
+          </div>
+          <div class="text-center w-1/2 pl-2">
+            <p class="uppercase font-bold text-[11pt]" id="printExamTitle">ĐỀ KIỂM TRA ĐỊNH KÌ HÓA HỌC 10</p>
+            <p class="font-bold text-[11pt]">NĂM HỌC 2026 – 2027</p>
+            <p class="text-[10.5pt]">Thời gian làm bài: <span id="printDuration">45</span> phút <em>(không kể phát đề)</em></p>
+            <p class="font-bold text-[11pt] mt-1 border border-black inline-block px-3 py-0.5">MÃ ĐỀ: <span id="printCode">101</span></p>
+          </div>
+        </div>
+
+        <div class="mb-6 p-2 border border-slate-400 text-[10pt] font-sans flex justify-between">
+          <span>Họ và tên thí sinh: ............................................................................</span>
+          <span>Số báo danh: ..................... Lớp: .............</span>
+        </div>
+
+        <!-- Print Content Body -->
+        <div id="printBody" class="space-y-6">
+          <!-- Injected by JS -->
+        </div>
+
+        <!-- Print Answers & Explanations -->
+        <div id="printSolutionSection" class="mt-10 pt-6 border-t-2 border-dashed border-slate-400 page-break-before">
+          <h3 class="text-center font-bold text-[13pt] uppercase mb-4">ĐÁP ÁN VÀ HƯỚNG DẪN CHẤM CHI TIẾT</h3>
+          <div id="printSolutionBody">
+            <!-- Injected by JS -->
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================================================== -->
+    <!-- MODAL ĐỐI SOÁT CHI TIẾT MA TRẬN (21 SLOTS ASSERTION AUDIT)     -->
+    <!-- ============================================================== -->
+    <div id="slotAuditModal" class="fixed inset-0 z-50 hidden bg-slate-900/60 backdrop-blur-xs flex items-center justify-center p-4 overflow-y-auto">
+      <div class="bg-white rounded-2xl shadow-2xl max-w-5xl w-full max-h-[90vh] flex flex-col border border-slate-200 animate-in fade-in zoom-in duration-200">
+        <!-- Modal Header -->
+        <div class="p-5 border-b border-slate-200 bg-slate-50 rounded-t-2xl flex items-center justify-between gap-4">
+          <div class="flex items-center gap-3">
+            <div class="w-10 h-10 rounded-xl bg-emerald-600 text-white flex items-center justify-center text-lg font-bold shadow">
+              <i class="fa-solid fa-list-check"></i>
+            </div>
+            <div>
+              <h3 class="font-bold text-slate-800 text-base">BẢNG ĐỐI SOÁT MA TRẬN & BẢN ĐẶC TẢ CHI TIẾT (21 KHE CẮM)</h3>
+              <p class="text-xs text-slate-500">Kiểm thử đối soát 100% từng khe cắm ma trận theo chuẩn Công văn 7991/BGDĐT</p>
+            </div>
+          </div>
+          <button onclick="window.closeSlotAuditModal()" class="w-8 h-8 rounded-full bg-slate-200 hover:bg-slate-300 text-slate-600 flex items-center justify-center transition">
+            <i class="fa-solid fa-xmark"></i>
+          </button>
+        </div>
+
+        <!-- Modal Body -->
+        <div class="p-6 overflow-y-auto space-y-4 flex-1">
+          <div id="slotAuditSummary" class="grid grid-cols-2 sm:grid-cols-4 gap-3 text-center">
+            <!-- Summary badges injected by JS -->
+          </div>
+
+          <div class="border border-slate-200 rounded-xl overflow-hidden shadow-xs">
+            <table class="w-full text-left border-collapse text-xs">
+              <thead class="bg-slate-100 text-slate-700 font-bold border-b border-slate-200">
+                <tr>
+                  <th class="p-2.5 text-center w-16">Khe cắm</th>
+                  <th class="p-2.5">Định dạng câu hỏi</th>
+                  <th class="p-2.5">Đơn vị kiến thức / Bài học</th>
+                  <th class="p-2.5 text-center">Mức độ Ma trận</th>
+                  <th class="p-2.5 text-center">Mức độ Thực tế</th>
+                  <th class="p-2.5 text-center w-16">Điểm</th>
+                  <th class="p-2.5 text-center w-24">Trạng thái</th>
+                </tr>
+              </thead>
+              <tbody id="slotAuditTableBody" class="divide-y divide-slate-200 font-medium">
+                <!-- Injected by JS -->
+              </tbody>
+            </table>
+          </div>
+
+          <div id="slotAuditErrorsContainer" class="p-3 bg-rose-50 border border-rose-200 rounded-lg text-rose-900 text-xs hidden">
+            <p class="font-bold mb-1"><i class="fa-solid fa-circle-exclamation text-rose-600"></i> Các cảnh báo / lỗi cần xử lý:</p>
+            <ul id="slotAuditErrorsList" class="list-disc list-inside space-y-1"></ul>
+          </div>
+        </div>
+
+        <!-- Modal Footer -->
+        <div class="p-4 border-t border-slate-200 bg-slate-50 rounded-b-2xl flex justify-between items-center">
+          <span class="text-xs text-slate-500 italic"><i class="fa-solid fa-shield-halved text-emerald-600"></i> Thuật toán Deterministic Slot-Matching đảm bảo không dùng LLM ngẫu nhiên</span>
+          <button onclick="window.closeSlotAuditModal()" class="px-4 py-2 bg-slate-800 hover:bg-slate-900 text-white rounded-lg text-xs font-bold transition">
+            Đóng cửa sổ
+          </button>
+        </div>
+      </div>
+    </div>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-slate-900 text-slate-400 text-xs py-4 border-t border-slate-800 text-center">
+    <p>Hệ thống tự động hóa tạo đề Hóa 12 • Hỗ trợ Ma trận, Bản đặc tả & Đề tương tự thay số liệu • THPT Bùi Thị Xuân, Mũi Né</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

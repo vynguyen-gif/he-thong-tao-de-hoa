@@ -1,0 +1,395 @@
+﻿
+
+w14:paraId="5C05CDE5" w14:textId="07731E75" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00C629F9">MA TRẬN ĐỀ KIỂM TRA GIỮA KÌ I - LỚP 11- MÔN HÓA HỌC - NĂM HỌC 2025-2026
+w14:paraId="65B8C05A" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00C629F9">
+w14:paraId="7BB827B1" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="62D799D3" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="04351C7B" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">T T
+w14:paraId="04925296" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="7C76E4EF" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="7839979C" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Chương
+w14:paraId="547A465D" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="71EA4003" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Nội dung/đơn vị kiến thức
+w14:paraId="42A6B850" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="10F9AD68" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Mức độ đánh giá
+w14:paraId="557E282D" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="63D8256E" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Tổng
+w14:paraId="7620DA0E" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="50F94ACE" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="06B7A997" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="4EF1B6C8" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="29FE07F3" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">TNKQ nhiều lựa
+w14:paraId="1183C155" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">chọn (I)
+w14:paraId="069C9B5F" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">TNKQ đúng – sai
+w14:paraId="4101358C" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">(II)
+w14:paraId="667011E0" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">TNKQ trả lời
+w14:paraId="746AAC4B" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">ngắn (III)
+w14:paraId="3B60A4FE" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Tự luận
+w14:paraId="05A685E9" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">(IV)
+w14:paraId="606BE2C1" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="29DBEF42" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="75766DBF" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="5B5D301F" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="210BF94B" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Biết
+w14:paraId="63677887" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Hiểu
+w14:paraId="1387BB6C" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">VD
+w14:paraId="592DD2AF" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Biết
+w14:paraId="4DF8631B" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Hiểu
+w14:paraId="4CFEF35A" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">VD
+w14:paraId="6BCA96CA" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Biết
+w14:paraId="5607AE14" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Hiểu
+w14:paraId="7FAE2847" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">VD
+w14:paraId="574C2507" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Biết
+w14:paraId="1F35537D" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Hiểu
+w14:paraId="5BD0A2FF" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">VD
+w14:paraId="6E0A0081" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00247843">Biết
+w14:paraId="10C235F9" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Hiểu
+w14:paraId="059D5486" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">VD
+w14:paraId="0CBB28CA" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">1
+w14:paraId="03187686" w14:textId="69C48F79" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00E3301A" w:rsidP="00D47C49">Cân bằng hóa học
+w14:paraId="5C879B70" w14:textId="4BB4AACF" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00E3301A" w:rsidP="00D47C49">Bài 1. Mở đầu về cân bằng hóa học  
+w14:paraId="596310B3" w14:textId="17747499" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="000601E1" w:rsidP="00D47C49">C1,2
+w14:paraId="48847AEB" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="1D6C65AF" w14:textId="038B4FD2" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="6285BC05" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="3F8AF6AA" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="5125B258" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="2E37CAF6" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="2D7215E9" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="0CBF5D9F" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="2477454D" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="0EAA58B8" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">III.2
+w14:paraId="381A31BB" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="5FF2B730" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="7D6A879F" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="4686D7A7" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="3E0BF6B6" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="6C04842C" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="044F86F2" w14:textId="30E29E03" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00247843">
+w14:paraId="79F8A83C" w14:textId="6EC90570" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="535AFA16" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="77FE7E41" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="793E895B" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="7D87D4D3" w14:textId="4A58BBC7" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00E3301A" w:rsidP="00D47C49">Bài 2. Sự điện li, thuyết Br∅nsted – Lowry về acid – base
+w14:paraId="5EFC8F86" w14:textId="0B1A3DBD" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="000601E1" w:rsidP="00D47C49">C3,C4
+w14:paraId="1A1ADEAD" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="13DD41E8" w14:textId="57E94BA5" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00E477A6" w:rsidP="00D47C49">C9
+w14:paraId="2A361775" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="782EA37D" w14:textId="1E76F125" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00D92B80" w:rsidP="00D47C49">C1a
+w14:paraId="3042F742" w14:textId="5901CF81" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="14147AC4" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="70B6783C" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="232F7721" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="6EFA0507" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="089FC7CC" w14:textId="788C2068" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="74C08019" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="17FF389E" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="352BD0DA" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="6CF811A9" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="03CA71C4" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="65F26434" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="1EFB0C37" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="20104DFC" w14:textId="7B363129" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">Bài 3. pH của dung dịch – chuẩn độ acid và base
+w14:paraId="2C8C7246" w14:textId="34D0B5E5" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C5
+w14:paraId="2308A3F9" w14:textId="21ACA7B3" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="1D87584F" w14:textId="44CF8334" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C11
+w14:paraId="6C5381CC" w14:textId="540DC9E5" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C1b
+w14:paraId="5AA76AAA" w14:textId="020013FE" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C1c
+w14:paraId="63B3E9D3" w14:textId="7C26687C" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C1d
+w14:paraId="081E3D57" w14:textId="01EA8CD1" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">III.1
+w14:paraId="0B23E57C" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="7B278655" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="3659653D" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="1E8DA077" w14:textId="7F6E640B" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">IV.2
+w14:paraId="3A51BDC3" w14:textId="579E25F7" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="6CE9B515" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="5CD4DF43" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="6D85F843" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="75787385" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">2
+w14:paraId="28F4A855" w14:textId="3AB4C149" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">Nitrogen và sulfur
+w14:paraId="4CEA97D3" w14:textId="7493CC49" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">Bài 4. Đơn chất nitrogen
+w14:paraId="5ECF5669" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="5332F567" w14:textId="0FC1F23E" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C6
+w14:paraId="64FD428A" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="62EE84F8" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="736FF9F4" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="29D4FA02" w14:textId="64069B44" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="6A87D5A6" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="781C209C" w14:textId="6901C068" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C2a
+w14:paraId="6A1C02AC" w14:textId="2DAFEBC5" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C2b
+w14:paraId="4F9F6004" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="303369FF" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="3F762EBC" w14:textId="23198A0C" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">III.3
+w14:paraId="33EBA6A2" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="72646180" w14:textId="71B8C864" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">IV.1
+w14:paraId="0FFD64BD" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="070E563E" w14:textId="6E090008" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="4C0F491C" w14:textId="00D4AA8B" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="0174A70B" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="73390BBD" w14:textId="5B4B26C5" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="61DB8FE2" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="3F2BC9A9" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="0DE43C34" w14:textId="4EF19DB1" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">Bài 5. Một số hợp chất quan trọng của nitrogen
+w14:paraId="07E64846" w14:textId="2EDC4595" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C7,8
+w14:paraId="286F4D71" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="50FAC1BD" w14:textId="576B5B6A" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C10
+w14:paraId="3EE759C2" w14:textId="6C6EF595" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C12
+w14:paraId="4C6B491C" w14:textId="6B6D9B8A" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C2c
+w14:paraId="4AE084A6" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="224DA71A" w14:textId="66F4EB80" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">C2d
+w14:paraId="18105F46" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="4723B734" w14:textId="7C98276A" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="40381743" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="42E14938" w14:textId="7B9E2256" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">III.4
+w14:paraId="57C2C80D" w14:textId="47004DE3" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="66818B56" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="1F9520B3" w14:textId="6A531EBA" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">IV.3
+w14:paraId="3714400E" w14:textId="36E59F27" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="1EEA2870" w14:textId="6BB26BFC" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="181E11E1" w14:textId="799F349D" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="302485D8" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="042F7588" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">
+w14:paraId="76F42A54" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">Tổng số câu (Lệnh hỏi)
+w14:paraId="1008CCBC" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">8
+w14:paraId="3CA2F148" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">2
+w14:paraId="520F3EB5" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">2
+w14:paraId="2DE580A5" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">4
+w14:paraId="5884FA14" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">2
+w14:paraId="007ABDB1" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">2
+w14:paraId="7FCBDC67" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">1
+w14:paraId="4AD368F5" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">2
+w14:paraId="2B6E6907" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">1
+w14:paraId="45C00C35" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">1
+w14:paraId="73A11ED9" w14:textId="2B0FF91C" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">1
+w14:paraId="0729639F" w14:textId="0B0B62E5" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">1
+w14:paraId="59DF76BE" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">14
+w14:paraId="6CDB48C3" w14:textId="7C11BD85" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">9
+w14:paraId="338356B4" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">8
+w14:paraId="72E3A878" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">Tổng số điểm
+w14:paraId="22C2E6BA" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">2,0
+w14:paraId="2A1A2D09" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">0,5
+w14:paraId="493E8657" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">0,5
+w14:paraId="7EB489CC" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">1,0
+w14:paraId="6F176146" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">0,5
+w14:paraId="6EFBB888" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">0,5
+w14:paraId="49E32E38" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">0,5
+w14:paraId="2B70FB14" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">1,0
+w14:paraId="285CF4DA" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">0,5
+w14:paraId="112A06B8" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">0,5
+w14:paraId="14508B2D" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">1,0
+w14:paraId="70F7F804" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">1,5
+w14:paraId="73F293E8" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">4,0
+w14:paraId="3C211F32" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">3,0
+w14:paraId="5DB69B00" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">3,0
+w14:paraId="6562FDA8" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">Tỉ lệ %
+w14:paraId="21AA0A9F" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">30
+w14:paraId="13664184" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">20
+w14:paraId="54EC30EE" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">20
+w14:paraId="041DFB59" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">30
+w14:paraId="0D40337E" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">40
+w14:paraId="7304180D" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">30
+w14:paraId="7F1B9C29" w14:textId="77777777" w:rsidR="009F6FE9" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="009F6FE9">30
+w14:paraId="553DCCFE" w14:textId="77777777" w:rsidR="008960E5" w:rsidRPr="001E2404" w:rsidRDefault="008960E5" w:rsidP="00C629F9">
+w14:paraId="5B67FD4F" w14:textId="78535E50" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00C629F9">BẢNG ĐẶC TẢ ĐỀ KIỂM TRA GIỮA KÌ I - LỚP 11- MÔN HÓA HỌC NĂM HỌC 2025 - 2026
+w14:paraId="3F6DB5F0" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00C629F9">
+w14:paraId="6EE983CA" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="0F71C0CA" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">TT
+w14:paraId="19FDC826" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="37F40736" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Chủ đề
+w14:paraId="27C57F4E" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Nội dung/đơn vị kiến thức
+w14:paraId="5EB1A143" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Cấp độ tư duy
+w14:paraId="5F845D95" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="7406F996" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Yêu cầu cần đạt
+w14:paraId="4AA1F53D" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Số lượng câu hỏi ở các mức độ
+w14:paraId="2D1BA56A" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="18A592FA" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="23042E87" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="7279C33D" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="4443DEF7" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="7ACD8178" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Trắc nghiệm
+w14:paraId="38ECCD55" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Tự luận
+w14:paraId="37FDD784" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="2041BC7F" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="14E909F0" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="4B2EFFB3" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="651442C1" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="5551BFF4" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Nhiều lựa chọn
+w14:paraId="3C3DC550" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Đúng- Sai
+w14:paraId="28C76774" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">Trả lời ngắn
+w14:paraId="04D89B5F" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="4ED9D9E5" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">(1)
+w14:paraId="16890714" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">(2)
+w14:paraId="21E1386C" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">(3)
+w14:paraId="583E5CE0" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="6B7DEED0" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="593FA1EA" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">(4)
+w14:paraId="79336DB0" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">(5)
+w14:paraId="4503F76B" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">(6)
+w14:paraId="44378EB9" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">(7)
+w14:paraId="226B3AA8" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">(8)
+w14:paraId="06B604A5" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">(9)
+w14:paraId="2648087D" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">1
+w14:paraId="347A5936" w14:textId="09A12EA1" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00D47C49">Bài 1. Mở đầu về cân bằng hóa học  
+w14:paraId="17C8FC53" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="1484A78A" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="401C1321" w14:textId="2AD7D0DD" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00D47C49">Bài 1. Mở đầu về cân bằng hóa học  
+w14:paraId="1016A318" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="4F7B9BD8" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="54169C49" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="02768F2A" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="195EEE4A" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="69E850EB" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="10753585" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">    B
+w14:paraId="0B28D7F6" w14:textId="586F8081" w:rsidR="00B71E12" w:rsidRPr="001E2404" w:rsidRDefault="00B71E12" w:rsidP="00B71E12">- Trình bày được khái niệm phản ứng thuận nghịch và trạng thái cân bằng của một phản - ứng thuận nghịch   (HH.1.2)
+w14:paraId="30AB2EC7" w14:textId="3C488F61" w:rsidR="00B71E12" w:rsidRPr="001E2404" w:rsidRDefault="00B71E12" w:rsidP="00B71E12">- Viết được biểu thức hằng số cân bằng(Kc) của phản ứng thuận nghịch(HH.1.3)
+w14:paraId="0FB3F89C" w14:textId="38F1C013" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="065522C9" w14:textId="0DF214CE" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="06449061" w14:textId="58BA5979" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00D47C49">2
+w14:paraId="0F639F00" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="7BD77A98" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="29E7F702" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="009F6FE9">
+w14:paraId="5106EC02" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="1198DA07" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="2FF0F518" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="49F75630" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="30B23951" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="404DB603" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="004C65EA" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="0DEE66CD" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">H
+w14:paraId="2551166D" w14:textId="4BC94AF5" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="001E2404" w:rsidP="001E2404"> Vận dụng nguyên lí chuyển dịch cân bằng Le chatelier để giải thích ảnh hưởng của nhiệt độ, nồng độ, áp suất, đến cân bằng hóa học. (HH.1.6)
+w14:paraId="78665307" w14:textId="51372668" w:rsidR="001E2404" w:rsidRPr="001E2404" w:rsidRDefault="001E2404" w:rsidP="00D47C49">
+w14:paraId="21CC59FD" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="001E2404">
+w14:paraId="37A50E8F" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="0B927A7F" w14:textId="58438600" w:rsidR="00C629F9" w:rsidRPr="009F6FE9" w:rsidRDefault="009F6FE9" w:rsidP="00D47C49">1
+w14:paraId="0D721BC7" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00D47C49">
+w14:paraId="74A1E82F" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="0255432C" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="0F07A548" w14:textId="5AAA5AA0" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00F2580C">Bài 2. Sự điện li, thuyết Br∅nsted – Lowry về acid – base
+w14:paraId="335C809E" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="7EBEEF7B" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="7DF649D3" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="6C7B2580" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">B
+w14:paraId="5738DDA7" w14:textId="16CCCA03" w:rsidR="001E2404" w:rsidRPr="001E2404" w:rsidRDefault="001E2404" w:rsidP="001E2404">-  Nêu khái niệm sự điện li, chất điện li, chất không điện li(HH.1.1)
+w14:paraId="156E2E3B" w14:textId="03548402" w:rsidR="001E2404" w:rsidRPr="001E2404" w:rsidRDefault="001E2404" w:rsidP="001E2404">- Trình bày được thuyết Br∅nsted– Lowry về acid – base(HH.1.2)
+w14:paraId="30F1351A" w14:textId="6450197F" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="5892164E" w14:textId="7BAB7968" w:rsidR="00CA02BF" w:rsidRPr="00512FB4" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">2
+w14:paraId="776E92D0" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="680325A7" w14:textId="0CC60B84" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">1
+w14:paraId="5BC86DAE" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="3F002F61" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="009F6FE9">
+w14:paraId="3039272E" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="1BA0D805" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="048BF629" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="086F3B2B" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="2E3DA3E8" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="0DC5D978" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="136A7148" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00F2580C">
+w14:paraId="7588992A" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00F2580C">H
+w14:paraId="6C8BA190" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRDefault="001E2404" w:rsidP="00CA02BF">- Trình bày được ý nghĩa thực tiễn cân bằng trong dung dịch nước của ion Al3+, Fe3+ và CO32- (HH.1.2)
+w14:paraId="2981481A" w14:textId="724FCDC6" w:rsidR="00F2580C" w:rsidRPr="00F2580C" w:rsidRDefault="00F2580C" w:rsidP="00F2580C">
+w14:paraId="5FB7E08A" w14:textId="04CCBD01" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">1
+w14:paraId="2C2DF8D5" w14:textId="048F340E" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="7AAFD007" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="45CC95C7" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="04955C51" w14:textId="77777777" w:rsidR="00F2580C" w:rsidRPr="001E2404" w:rsidRDefault="00F2580C" w:rsidP="00CA02BF">
+w14:paraId="7103338A" w14:textId="77777777" w:rsidR="00F2580C" w:rsidRPr="001E2404" w:rsidRDefault="00F2580C" w:rsidP="00CA02BF">
+w14:paraId="22DD241B" w14:textId="77777777" w:rsidR="00F2580C" w:rsidRPr="001E2404" w:rsidRDefault="00F2580C" w:rsidP="00CA02BF">
+w14:paraId="18BED3BD" w14:textId="2647E31B" w:rsidR="00F2580C" w:rsidRPr="001E2404" w:rsidRDefault="00F2580C" w:rsidP="00CA02BF">VD
+w14:paraId="6BCDA86A" w14:textId="708E41CE" w:rsidR="00F2580C" w:rsidRPr="00F2580C" w:rsidRDefault="00F2580C" w:rsidP="00CA02BF">Vận dụng kiến thức kĩ năng đã học về thuyết Br∅nsted– Lowry về acid – base để giải thích được ý nghĩa thực tiễn cân bằng trong dung dịch nước của ion Al3+, Fe3+ và CO32- (HH.3.1)
+w14:paraId="4BC2D189" w14:textId="77777777" w:rsidR="00F2580C" w:rsidRPr="001E2404" w:rsidRDefault="00F2580C" w:rsidP="00CA02BF">
+w14:paraId="0BED4552" w14:textId="77777777" w:rsidR="00F2580C" w:rsidRPr="001E2404" w:rsidRDefault="00F2580C" w:rsidP="00CA02BF">
+w14:paraId="28891862" w14:textId="77777777" w:rsidR="00F2580C" w:rsidRPr="001E2404" w:rsidRDefault="00F2580C" w:rsidP="00CA02BF">
+w14:paraId="2E7926EB" w14:textId="77777777" w:rsidR="00F2580C" w:rsidRPr="001E2404" w:rsidRDefault="00F2580C" w:rsidP="00CA02BF">
+w14:paraId="5FEF796A" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="0111C296" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="21629743" w14:textId="5A1C9DBD" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">Bài 3. pH của dung dịch – chuẩn độ acid và base
+w14:paraId="5E51A39B" w14:textId="16DC31AE" w:rsidR="00AB1B9D" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">B
+w14:paraId="62CD0642" w14:textId="36AC0D9E" w:rsidR="00AB1B9D" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">Nêu khái niệm và ý nghĩa của pH trong thực tiễn( liên hệ giá trị pH ở các bộ phận trong cơ thể với sức khoẻ con người; pH của đất, nước tới sự phát triển của động thực vật. (HH.1.1)
+w14:paraId="7CFE5479" w14:textId="0F5776AC" w:rsidR="006614D4" w:rsidRPr="006614D4" w:rsidRDefault="006614D4" w:rsidP="00CA02BF">- Nếu nguyên tắc xác định nồng độ acid – base mạnh bằng phương pháp chuẩn độ(HH.1.1)
+w14:paraId="43FBA257" w14:textId="7C5D9159" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">1
+w14:paraId="278FAB2A" w14:textId="42493012" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">1
+w14:paraId="4DA62FA4" w14:textId="3178A0DE" w:rsidR="00AB1B9D" w:rsidRPr="009F6FE9" w:rsidRDefault="009F6FE9" w:rsidP="00CA02BF">1
+w14:paraId="7B7E880E" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="07D990BD" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="40924A5F" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="473C02B1" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="64401485" w14:textId="186AA7C5" w:rsidR="00AB1B9D" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">H
+w14:paraId="7EDB76D6" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRDefault="006614D4" w:rsidP="00CA02BF">Thực hiện thú nghiệm chuẩn độ acid – base: chuẩn độ dung dịch base mạnh bằng dd acid mạnh(HH.2.4)
+w14:paraId="09601274" w14:textId="52D4E77E" w:rsidR="009F6FE9" w:rsidRPr="009F6FE9" w:rsidRDefault="009F6FE9" w:rsidP="00CA02BF">- Viết được biểu thức tính pH và biết cách sử dụng các chất chỉ để xác định pH bằng các chất chỉ thị phổ biến như quỳ tím, giấy chỉ thị màu, phnolphthalein… (HH.1.2)
+w14:paraId="45B0A157" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="242A5F19" w14:textId="45FE27C9" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">1
+w14:paraId="088F096B" w14:textId="3FF01ADE" w:rsidR="00AB1B9D" w:rsidRPr="009F6FE9" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="7268FE59" w14:textId="79438013" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="00CA02BF">1
+w14:paraId="33ABC547" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="5FBC01F8" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="4AA46461" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="1FABBC8D" w14:textId="42924CC2" w:rsidR="00AB1B9D" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">VD
+w14:paraId="14489E74" w14:textId="6EC12E66" w:rsidR="00791BA6" w:rsidRDefault="00791BA6" w:rsidP="00791BA6">Vận dụng các kiến thức, kĩ năng đã học về pH để nêu được ý nghĩa của pH trong thực tiễn( liên hệ giá trị pH ở các bộ phận trong cơ thể với sức khỏe con người; pH của đất, nước tới sự phát triển của động thực vật. (HH.3.6)
+w14:paraId="1A6D2280" w14:textId="40F37F37" w:rsidR="00AB1B9D" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="67D14198" w14:textId="6FFAD375" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">1
+w14:paraId="61CE4DCA" w14:textId="3D7B8084" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">1
+w14:paraId="428B3BF6" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="728836B0" w14:textId="77777777" w:rsidR="00AB1B9D" w:rsidRPr="001E2404" w:rsidRDefault="00AB1B9D" w:rsidP="00CA02BF">
+w14:paraId="5126E9BF" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="5CE23441" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">   2
+w14:paraId="6CFB82B8" w14:textId="72506596" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00B71E12" w:rsidP="00CA02BF">Nitrogen và sulfur
+w14:paraId="07D2B646" w14:textId="69F6B1FE" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00B71E12" w:rsidP="00CA02BF">Bài 4. Đơn chất nitrogen
+w14:paraId="39A73E6C" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="60128867" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="4207C916" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">B
+w14:paraId="21E5B5BD" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRDefault="00791BA6" w:rsidP="00CA02BF">- Phát biểu được trạng thái tự nhiên của nguyên tố nitrogen(HH.1.1)
+w14:paraId="5714B2EB" w14:textId="4B42D955" w:rsidR="00791BA6" w:rsidRPr="00791BA6" w:rsidRDefault="00E41D6F" w:rsidP="00CA02BF">- Trình bày được sự hoạt dộng của đơn chất nitrogen ở nhiệt độ cao với hydrogen và oxygen(HH.1.2)
+w14:paraId="0A9D4370" w14:textId="4647E184" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">1
+w14:paraId="4E30E392" w14:textId="580B9DEF" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="00CA02BF">1
+w14:paraId="4497479B" w14:textId="1608172B" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="7AA2F0E7" w14:textId="2D955968" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="00CA02BF">1
+w14:paraId="30FED7E0" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="3BAC6745" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="60029310" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="5DD0B436" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="2A9E6EEF" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="1B128F35" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">       H
+w14:paraId="67CDC58B" w14:textId="52A1B4A4" w:rsidR="00E41D6F" w:rsidRDefault="00E41D6F" w:rsidP="00CA02BF">- Giải thích được tính trơ của đơn chất nitrogen ở nhiệt độ thường thông qua liên kết và giá trị năng liên kết (HH.1.6)
+w14:paraId="4EB82FAD" w14:textId="5A818C48" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00E41D6F" w:rsidP="00CA02BF"> - Liên hệ được quá trình cung cấp nitrate cho đát từ nước mưa(HH.1.6)
+w14:paraId="0B09DA84" w14:textId="772F6321" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">1
+w14:paraId="1410A531" w14:textId="50B6CF8A" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="00CA02BF">1
+w14:paraId="5D9DF4DB" w14:textId="4F6D7E99" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="00CA02BF">1
+w14:paraId="0FC76E45" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="41B04EF5" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="23D1DBFB" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="44F0F0E5" w14:textId="257B82AC" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00B71E12" w:rsidP="00CA02BF">Bài 5. Một số hợp chất quan trọng của nitrogen
+w14:paraId="6A564A52" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">B
+w14:paraId="2B43B349" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRDefault="00E41D6F" w:rsidP="00CA02BF">- Mô ta công thức lewis và dạng hình học của phân tử ammonia(HH.1.3)
+w14:paraId="2DB5950F" w14:textId="77777777" w:rsidR="00B55DA1" w:rsidRDefault="00B55DA1" w:rsidP="00CA02BF">- Trình bày được ứng dụng của ammonia(HH.1.2)
+w14:paraId="1878B08A" w14:textId="2144333D" w:rsidR="00B55DA1" w:rsidRPr="00B55DA1" w:rsidRDefault="00B55DA1" w:rsidP="00CA02BF">- trình bày được ứng dụng của muối ammonium nitrate và một số muốn ammonium tan trong phân đạm, phân ammophos(HH.1.2)
+w14:paraId="1083D347" w14:textId="4EA353A1" w:rsidR="00CA02BF" w:rsidRPr="00512FB4" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">2
+w14:paraId="2C4D0996" w14:textId="1044B954" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="00CA02BF">1
+w14:paraId="22757B36" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="1004978B" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="117CB0C0" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="77957DC1" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="3D06444F" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="34775375" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">H
+w14:paraId="38229A02" w14:textId="77777777" w:rsidR="00B55DA1" w:rsidRDefault="00B55DA1" w:rsidP="00CA02BF">- Trình bày được tính chất cơ bản của muối ammonium và nhận biết được ion ammonium trong dung dịch. (HH.1.2)
+w14:paraId="251C93EA" w14:textId="77777777" w:rsidR="00B55DA1" w:rsidRDefault="00B55DA1" w:rsidP="00CA02BF">- Phân tích được nguồn gốc của các oxide của nitrogen trong không khí và nguyên nhân gây hiện tượng mưa acid(HH.1.2)
+w14:paraId="3F747169" w14:textId="77777777" w:rsidR="00925D48" w:rsidRDefault="00925D48" w:rsidP="00CA02BF">- Nêu được cấu tạo của phân tử HNO3, tính acid, tính oxihoa mạnh trong một số ứng dụng thực tiễn quan trọng của nitric acid (HH.1.1)
+w14:paraId="0271CA19" w14:textId="57B20C98" w:rsidR="00925D48" w:rsidRPr="00925D48" w:rsidRDefault="00925D48" w:rsidP="00CA02BF">- Giải thích nguyên nhân và hệ quả của hiện tượng phú dưỡng(HH.1.6)
+w14:paraId="6262D681" w14:textId="7A1B0572" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">1
+w14:paraId="04CC0044" w14:textId="3B52FF5A" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="373AB7F6" w14:textId="2D3EECBB" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="62B03C78" w14:textId="6A4E5043" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00B71E12">
+w14:paraId="6976C481" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="0C5D8A6B" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="7B93E084" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">
+w14:paraId="73192A40" w14:textId="77777777" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00CA02BF" w:rsidP="00CA02BF">VD
+w14:paraId="7FAA4C13" w14:textId="710CF7E6" w:rsidR="00CA02BF" w:rsidRDefault="00925D48" w:rsidP="00CA02BF">- Vận dụng kiến thức đã học về cân bằng hóa học, biên thiên enthalpy cho phản ứng tổng hợp ammonia từ nitrogen và hydrogen trong quá trình haber(HH.1.6)
+w14:paraId="43356093" w14:textId="77777777" w:rsidR="00925D48" w:rsidRPr="00494C86" w:rsidRDefault="00925D48" w:rsidP="00925D48">- Dựa vào đặc điểm cấu tạo của phân tử ammonia giải thích được tính chất vật lí(, tính tan), Tính chất hóa học( tính base, tính khử). Viết được PTHH minh họa. (HH.1.6)
+w14:paraId="4D6FFAFD" w14:textId="07D8DE38" w:rsidR="00925D48" w:rsidRPr="00925D48" w:rsidRDefault="00925D48" w:rsidP="00CA02BF">- Thực hiện được thí nghiệm nhận ion ammonium trong phân đạm chứa ion ammonium. (HH.2.4)
+w14:paraId="5BFC9E37" w14:textId="79ACD9E0" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="00512FB4" w:rsidP="00CA02BF">1
+w14:paraId="054E89D0" w14:textId="378676FA" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="00CA02BF">1
+w14:paraId="31099E45" w14:textId="369E9357" w:rsidR="00CA02BF" w:rsidRPr="001E2404" w:rsidRDefault="009F6FE9" w:rsidP="00CA02BF">1
+w14:paraId="01CF2030" w14:textId="5593B209" w:rsidR="00CA02BF" w:rsidRPr="009F6FE9" w:rsidRDefault="009F6FE9" w:rsidP="00CA02BF">1
+w14:paraId="292C113C" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00C629F9">
+w14:paraId="1A9DF880" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00C629F9">
+w14:paraId="395307D7" w14:textId="77777777" w:rsidR="00C629F9" w:rsidRPr="001E2404" w:rsidRDefault="00C629F9" w:rsidP="00C629F9">
+w14:paraId="5AEA2A72" w14:textId="77777777" w:rsidR="004E5DDB" w:rsidRPr="001E2404" w:rsidRDefault="004E5DDB">
